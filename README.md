@@ -14,4 +14,8 @@ Si hay interés, puedo convertir los cantones y las provincias, tambien.
 
 geoJSON es muy útil, por ejemplo para usarlo nativamente en Leaflet.js
 
+# Bugs / to-do
+- no se si estoy manejando "holes" en los polygons bien. Existen "holes" en distritos en CR?
+
+
 -M.
