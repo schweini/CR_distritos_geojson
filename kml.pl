@@ -1,8 +1,10 @@
-
+#!/usr/bin/perl
 
 
 use XML::Hash::LX;
 #use JSON;
+
+# KML file from http://daticos-geotec.opendata.arcgis.com/datasets/741bdd9fa2ca4d8fbf1c7fe945f8c916_0
 
 open(IN, '<distritos.kml');
 while ( $l = <IN> )
@@ -17,7 +19,7 @@ $hash = $hash->{kml}->{Document}->{Folder};
 
 foreach $pm ( @pms )
 {
-    use Data::Dumper;
+    #use Data::Dumper;
     @data = @{ $pm->{ExtendedData}->{SchemaData}->{SimpleData} };
     foreach $data ( @data )
     {
@@ -78,7 +80,7 @@ foreach $code ( sort keys %out )
                 'geometry' => { type => MultiPolygon, coordinates => [ $out{$code}{polys} ] }
                 #'geometry' => { type => Polygon, coordinates => [ $out{$code}{polys}->[0] ] }
             };
-    open(OUT, ">geojson/$code.geoJSON");
+    open(OUT, ">geojson/$code.geojson");
     print OUT $JSON->pretty->encode($json);
     
 }
