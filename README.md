@@ -1,5 +1,5 @@
 # CR_distritos_geojson
-Procinvias, Cantones y Distritos de Costa Rica en formato geoJSON
+Provincias, Cantones y Distritos de Costa Rica en formato geoJSON
 
 No me gusta XML, y prefiero JSON.
 Me robé el archivo .kml de los distritos de Costa Rica de aquí:
