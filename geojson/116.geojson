@@ -1,9 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "116",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "TURRUBARES"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -7620,6 +7615,11 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Canton" : "TURRUBARES",
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "116"
    },
    "type" : "Feature"
 }

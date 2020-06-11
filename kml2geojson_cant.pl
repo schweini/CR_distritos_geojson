@@ -45,26 +45,45 @@ foreach $pm ( @pms )
 
     $code = $pc.$cc;
     
+    #next if $c ne "NANDAYURE";
     print "$p - $c : $code\n";
-    $coords = $pm->{Polygon}->{outerBoundaryIs}->{LinearRing}->{coordinates};
-    @coords = split(/\s/, $coords);
     
-
-    my @latlon;
-    foreach $coord ( @coords )
+    
+    print "ref polygon is ".ref($pm->{MultiGeometry}->{Polygon});
+    print "print polgon is $pm->{MultiGeometry}->{Polygon}";
+    
+    if ( ref( $pm->{MultiGeometry}->{Polygon} ) eq 'ARRAY' )
     {
-        ($lon,$lat) = split(/,/, $coord);
-        $lat += 0;
-        $lon += 0;
-        #push @latlon, [$lat, $lon];
-        push @latlon, [$lon, $lat];
+        @polys = @{ $pm->{MultiGeometry}->{Polygon} };
+    }
+    else
+    {
+        @polys = ( $pm->{Polygon} )
     }
     
-    $out{$code}{p} = $p;
-    $out{$code}{c} = $c;
-    $out{$code}{d} = $d;
-    push @{ $out{$code}{polys} }, \@latlon;
-
+    foreach $poly (@polys)
+    {
+        #$coords = $pm->{Polygon}->{outerBoundaryIs}->{LinearRing}->{coordinates};
+        $coords = $poly->{outerBoundaryIs}->{LinearRing}->{coordinates};
+        @coords = split(/\s/, $coords);
+        
+    
+        my @latlon;
+        foreach $coord ( @coords )
+        {
+            ($lon,$lat) = split(/,/, $coord);
+            $lat += 0;
+            $lon += 0;
+            #push @latlon, [$lat, $lon];
+            push @latlon, [$lon, $lat];
+        }
+        
+        $out{$code}{p} = $p;
+        $out{$code}{c} = $c;
+        $out{$code}{d} = $d;
+        push @{ $out{$code}{polys} }, \@latlon;
+    }
+    
     #print join(' | ', map { "$_ ".ref($hash->{$_}) } sort keys $pm->{ExtendedData})."\n";
     #print $pm->{ExtendedData};
 }

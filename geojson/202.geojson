@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "SAN RAMON",
+      "Codigo" : "202"
+   },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -15847,11 +15853,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "202",
-      "Canton" : "SAN RAMON"
-   },
-   "type" : "Feature"
+   }
 }

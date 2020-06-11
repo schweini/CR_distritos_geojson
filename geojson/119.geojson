@@ -1,8 +1,9 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Codigo" : "119",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "PEREZ ZELEDON"
+      "Canton" : "PEREZ ZELEDON",
+      "Provincia" : "SAN JOSE"
    },
    "geometry" : {
       "type" : "MultiPolygon",
@@ -12232,6 +12233,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature"
+   }
 }

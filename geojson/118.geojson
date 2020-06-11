@@ -1,12 +1,11 @@
 {
-   "type" : "Feature",
    "properties" : {
       "Canton" : "CURRIDABAT",
       "Provincia" : "SAN JOSE",
       "Codigo" : "118"
    },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -992,6 +991,7 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    }
 }

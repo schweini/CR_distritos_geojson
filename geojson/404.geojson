@@ -1,11 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "404",
-      "Provincia" : "HEREDIA",
-      "Canton" : "SANTA BARBARA"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1559,7 +1553,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Canton" : "SANTA BARBARA",
+      "Provincia" : "HEREDIA",
+      "Codigo" : "404"
    },
    "type" : "Feature"
 }

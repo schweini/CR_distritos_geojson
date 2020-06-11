@@ -1,11 +1,6 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "106",
-      "Canton" : "ASERRI"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6387,7 +6382,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "ASERRI",
+      "Codigo" : "106"
+   },
+   "type" : "Feature"
 }

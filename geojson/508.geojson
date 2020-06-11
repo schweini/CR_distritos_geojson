@@ -1,11 +1,6 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Codigo" : "508",
-      "Canton" : "TILARAN"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4415,7 +4410,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "properties" : {
+      "Canton" : "TILARAN",
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "508"
+   },
+   "type" : "Feature"
 }

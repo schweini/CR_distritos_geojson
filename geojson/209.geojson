@@ -1,7 +1,5 @@
 {
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4463,11 +4461,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
-      "Provincia" : "ALAJUELA",
       "Codigo" : "209",
+      "Provincia" : "ALAJUELA",
       "Canton" : "OROTINA"
-   }
+   },
+   "type" : "Feature"
 }

@@ -1,7 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "LIMON",
+      "Canton" : "POCOCI",
+      "Codigo" : "702"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -12019,11 +12023,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Canton" : "POCOCI",
-      "Provincia" : "LIMON",
-      "Codigo" : "702"
+      ],
+      "type" : "MultiPolygon"
    }
 }

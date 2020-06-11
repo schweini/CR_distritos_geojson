@@ -1,10 +1,4 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "608",
-      "Canton" : "COTO BRUS"
-   },
    "geometry" : {
       "coordinates" : [
          [
@@ -8713,5 +8707,11 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Codigo" : "608",
+      "Canton" : "COTO BRUS",
+      "Provincia" : "PUNTARENAS"
+   },
+   "type" : "Feature"
 }

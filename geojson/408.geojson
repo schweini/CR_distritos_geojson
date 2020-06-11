@@ -1,12 +1,5 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "FLORES",
-      "Codigo" : "408",
-      "Provincia" : "HEREDIA"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1268,6 +1261,13 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Codigo" : "408",
+      "Provincia" : "HEREDIA",
+      "Canton" : "FLORES"
+   },
+   "type" : "Feature"
 }

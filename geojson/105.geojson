@@ -1,7 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "TARRAZU",
+      "Codigo" : "105"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4811,11 +4815,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Canton" : "TARRAZU",
-      "Codigo" : "105",
-      "Provincia" : "SAN JOSE"
+      ],
+      "type" : "MultiPolygon"
    }
 }

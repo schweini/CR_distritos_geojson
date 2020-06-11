@@ -1,10 +1,6 @@
 {
-   "properties" : {
-      "Canton" : "DESAMPARADOS",
-      "Codigo" : "103",
-      "Provincia" : "SAN JOSE"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -8810,8 +8806,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature"
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "103",
+      "Canton" : "DESAMPARADOS",
+      "Provincia" : "SAN JOSE"
+   }
 }

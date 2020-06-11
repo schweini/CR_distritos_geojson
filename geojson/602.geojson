@@ -6969,8 +6969,8 @@
       ]
    },
    "properties" : {
-      "Provincia" : "PUNTARENAS",
       "Codigo" : "602",
+      "Provincia" : "PUNTARENAS",
       "Canton" : "ESPARZA"
    },
    "type" : "Feature"

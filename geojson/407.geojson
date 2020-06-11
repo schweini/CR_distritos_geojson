@@ -1,8 +1,9 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "HEREDIA",
-      "Codigo" : "407",
-      "Canton" : "BELEN"
+      "Canton" : "BELEN",
+      "Codigo" : "407"
    },
    "geometry" : {
       "type" : "MultiPolygon",
@@ -1316,6 +1317,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature"
+   }
 }

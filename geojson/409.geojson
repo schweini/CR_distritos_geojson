@@ -1,9 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "SAN PABLO",
-      "Codigo" : "409",
-      "Provincia" : "HEREDIA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -837,5 +832,10 @@
          ]
       ]
    },
-   "type" : "Feature"
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "409",
+      "Canton" : "SAN PABLO",
+      "Provincia" : "HEREDIA"
+   }
 }

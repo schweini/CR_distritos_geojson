@@ -1,9 +1,9 @@
 {
    "type" : "Feature",
    "properties" : {
+      "Canton" : "ALAJUELITA",
       "Provincia" : "SAN JOSE",
-      "Codigo" : "110",
-      "Canton" : "ALAJUELITA"
+      "Codigo" : "110"
    },
    "geometry" : {
       "coordinates" : [

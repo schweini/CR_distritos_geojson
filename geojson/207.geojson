@@ -1,12 +1,5 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "PALMARES",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "207"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2276,6 +2269,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "207",
+      "Provincia" : "ALAJUELA",
+      "Canton" : "PALMARES"
    }
 }

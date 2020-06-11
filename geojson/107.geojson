@@ -1,7 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "MORA",
+      "Codigo" : "107"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6223,11 +6227,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Canton" : "MORA",
-      "Codigo" : "107",
-      "Provincia" : "SAN JOSE"
+      ],
+      "type" : "MultiPolygon"
    }
 }

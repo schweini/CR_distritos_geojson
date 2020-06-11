@@ -1,6 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Canton" : "SARAPIQUI",
+      "Provincia" : "HEREDIA",
+      "Codigo" : "410"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -8230,12 +8236,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Canton" : "SARAPIQUI",
-      "Codigo" : "410",
-      "Provincia" : "HEREDIA"
+      ]
    }
 }

@@ -1,5 +1,6 @@
 {
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6669,13 +6670,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
+   "type" : "Feature",
    "properties" : {
-      "Codigo" : "610",
+      "Canton" : "CORREDORES",
       "Provincia" : "PUNTARENAS",
-      "Canton" : "CORREDORES"
-   },
-   "type" : "Feature"
+      "Codigo" : "610"
+   }
 }

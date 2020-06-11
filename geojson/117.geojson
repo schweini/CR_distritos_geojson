@@ -1,5 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "117",
+      "Canton" : "DOTA",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4205,13 +4212,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "117",
-      "Canton" : "DOTA"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

@@ -1,7 +1,5 @@
 {
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5731,11 +5729,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "ALAJUELA",
-      "Codigo" : "211",
-      "Canton" : "ZARCERO"
+      "Canton" : "ZARCERO",
+      "Codigo" : "211"
    }
 }

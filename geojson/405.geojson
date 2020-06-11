@@ -1,11 +1,12 @@
 {
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "SAN RAFAEL",
       "Codigo" : "405",
+      "Canton" : "SAN RAFAEL",
       "Provincia" : "HEREDIA"
    },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1699,7 +1700,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

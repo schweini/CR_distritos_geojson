@@ -1,12 +1,5 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "VAZQUEZ DE CORONADO",
-      "Codigo" : "111",
-      "Provincia" : "SAN JOSE"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5728,6 +5721,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "111",
+      "Canton" : "VAZQUEZ DE CORONADO",
+      "Provincia" : "SAN JOSE"
    }
 }

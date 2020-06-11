@@ -1,6 +1,6 @@
 {
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -14282,12 +14282,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
+   "type" : "Feature",
    "properties" : {
-      "Codigo" : "509",
       "Provincia" : "GUANACASTE",
-      "Canton" : "NANDAYURE"
+      "Canton" : "NANDAYURE",
+      "Codigo" : "509"
    }
 }

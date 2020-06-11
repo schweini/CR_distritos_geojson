@@ -1,7 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Canton" : "MONTES DE ORO",
+      "Codigo" : "604"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7863,11 +7867,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Canton" : "MONTES DE ORO",
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "604"
+      ],
+      "type" : "MultiPolygon"
    }
 }

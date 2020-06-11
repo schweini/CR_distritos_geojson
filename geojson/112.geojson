@@ -1,9 +1,9 @@
 {
    "type" : "Feature",
    "properties" : {
-      "Codigo" : "112",
+      "Canton" : "ACOSTA",
       "Provincia" : "SAN JOSE",
-      "Canton" : "ACOSTA"
+      "Codigo" : "112"
    },
    "geometry" : {
       "type" : "MultiPolygon",

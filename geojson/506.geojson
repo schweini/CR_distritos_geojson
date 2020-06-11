@@ -1,12 +1,5 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "CAÑAS",
-      "Provincia" : "GUANACASTE",
-      "Codigo" : "506"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7528,6 +7521,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "506",
+      "Canton" : "CAÑAS",
+      "Provincia" : "GUANACASTE"
    }
 }

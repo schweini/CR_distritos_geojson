@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -3942,8 +3941,9 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
+      "Codigo" : "205",
       "Canton" : "ATENAS",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "205"
-   }
+      "Provincia" : "ALAJUELA"
+   },
+   "type" : "Feature"
 }

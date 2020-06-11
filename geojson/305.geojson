@@ -2,10 +2,11 @@
    "type" : "Feature",
    "properties" : {
       "Provincia" : "CARTAGO",
-      "Codigo" : "305",
-      "Canton" : "TURRIALBA"
+      "Canton" : "TURRIALBA",
+      "Codigo" : "305"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -9707,7 +9708,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

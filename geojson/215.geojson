@@ -1,10 +1,4 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "215",
-      "Canton" : "GUATUSO"
-   },
    "geometry" : {
       "coordinates" : [
          [
@@ -9177,5 +9171,11 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Canton" : "GUATUSO",
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "215"
+   },
+   "type" : "Feature"
 }

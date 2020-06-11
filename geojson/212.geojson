@@ -1,11 +1,11 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Canton" : "VALVERDE VEGA",
+      "Codigo" : "212",
       "Provincia" : "ALAJUELA",
-      "Codigo" : "212"
+      "Canton" : "VALVERDE VEGA"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -8047,7 +8047,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

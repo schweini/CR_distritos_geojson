@@ -1,6 +1,5 @@
 {
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4202,12 +4201,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
+   "type" : "Feature",
    "properties" : {
       "Codigo" : "308",
       "Provincia" : "CARTAGO",
       "Canton" : "EL GUARCO"
-   },
-   "type" : "Feature"
+   }
 }

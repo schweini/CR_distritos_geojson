@@ -2524,10 +2524,10 @@
          ]
       ]
    },
+   "type" : "Feature",
    "properties" : {
-      "Provincia" : "SAN JOSE",
       "Codigo" : "109",
-      "Canton" : "SANTA ANA"
-   },
-   "type" : "Feature"
+      "Canton" : "SANTA ANA",
+      "Provincia" : "SAN JOSE"
+   }
 }

@@ -1,5 +1,12 @@
 {
+   "properties" : {
+      "Canton" : "TIBAS",
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "113"
+   },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2045,13 +2052,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "113",
-      "Canton" : "TIBAS"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

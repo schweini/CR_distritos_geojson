@@ -1,9 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "BAGACES",
-      "Provincia" : "GUANACASTE",
-      "Codigo" : "504"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -10245,5 +10240,10 @@
          ]
       ]
    },
-   "type" : "Feature"
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "504",
+      "Canton" : "BAGACES",
+      "Provincia" : "GUANACASTE"
+   }
 }

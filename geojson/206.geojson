@@ -1,10 +1,10 @@
 {
-   "type" : "Feature",
    "properties" : {
       "Canton" : "NARANJO",
-      "Codigo" : "206",
-      "Provincia" : "ALAJUELA"
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "206"
    },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [

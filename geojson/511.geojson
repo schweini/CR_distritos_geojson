@@ -1,9 +1,9 @@
 {
    "type" : "Feature",
    "properties" : {
+      "Codigo" : "511",
       "Canton" : "HOJANCHA",
-      "Provincia" : "GUANACASTE",
-      "Codigo" : "511"
+      "Provincia" : "GUANACASTE"
    },
    "geometry" : {
       "type" : "MultiPolygon",

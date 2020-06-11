@@ -8138,8 +8138,8 @@
    },
    "properties" : {
       "Provincia" : "LIMON",
-      "Codigo" : "705",
-      "Canton" : "MATINA"
+      "Canton" : "MATINA",
+      "Codigo" : "705"
    },
    "type" : "Feature"
 }

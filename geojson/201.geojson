@@ -1,10 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Codigo" : "201",
-      "Provincia" : "ALAJUELA",
-      "Canton" : "ALAJUELA"
+      "Canton" : "ALAJUELA",
+      "Provincia" : "ALAJUELA"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -9498,8 +9500,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

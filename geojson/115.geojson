@@ -1,10 +1,6 @@
 {
-   "properties" : {
-      "Canton" : "MONTES DE OCA",
-      "Codigo" : "115",
-      "Provincia" : "SAN JOSE"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2666,8 +2662,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "MONTES DE OCA",
+      "Codigo" : "115"
    },
    "type" : "Feature"
 }

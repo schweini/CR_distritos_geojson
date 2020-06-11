@@ -1,10 +1,12 @@
 {
    "properties" : {
+      "Codigo" : "603",
       "Canton" : "BUENOS AIRES",
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "603"
+      "Provincia" : "PUNTARENAS"
    },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -13778,8 +13780,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

@@ -1,11 +1,6 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "208",
-      "Canton" : "POAS"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7219,7 +7214,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "type" : "Feature",
+   "properties" : {
+      "Canton" : "POAS",
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "208"
    }
 }

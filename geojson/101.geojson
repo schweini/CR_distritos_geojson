@@ -1,11 +1,6 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "SAN JOSE",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "101"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4783,7 +4778,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "properties" : {
+      "Canton" : "SAN JOSE",
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "101"
+   },
+   "type" : "Feature"
 }

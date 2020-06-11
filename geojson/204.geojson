@@ -1,11 +1,6 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "204",
-      "Provincia" : "ALAJUELA",
-      "Canton" : "SAN MATEO"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4891,7 +4886,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "type" : "Feature",
+   "properties" : {
+      "Canton" : "SAN MATEO",
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "204"
    }
 }

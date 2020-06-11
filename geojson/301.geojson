@@ -1,4 +1,10 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Canton" : "CARTAGO",
+      "Provincia" : "CARTAGO",
+      "Codigo" : "301"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -7279,11 +7285,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Canton" : "CARTAGO",
-      "Provincia" : "CARTAGO",
-      "Codigo" : "301"
-   },
-   "type" : "Feature"
+   }
 }

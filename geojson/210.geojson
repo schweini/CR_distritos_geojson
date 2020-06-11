@@ -1,7 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "210",
+      "Provincia" : "ALAJUELA",
+      "Canton" : "SAN CARLOS"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -22223,11 +22227,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "210",
-      "Canton" : "SAN CARLOS"
+      ],
+      "type" : "MultiPolygon"
    }
 }

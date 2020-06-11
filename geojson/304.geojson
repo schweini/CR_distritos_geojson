@@ -1,6 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "304",
+      "Provincia" : "CARTAGO",
+      "Canton" : "JIMENEZ"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3882,12 +3887,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Codigo" : "304",
-      "Provincia" : "CARTAGO",
-      "Canton" : "JIMENEZ"
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

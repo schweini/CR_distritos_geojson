@@ -1,6 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "214",
+      "Canton" : "LOS CHILES",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -13438,12 +13444,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Codigo" : "214",
-      "Provincia" : "ALAJUELA",
-      "Canton" : "LOS CHILES"
+      ]
    }
 }

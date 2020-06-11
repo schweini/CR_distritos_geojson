@@ -1,11 +1,5 @@
 {
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Codigo" : "302",
-      "Canton" : "PARAISO"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5243,7 +5237,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Canton" : "PARAISO",
+      "Provincia" : "CARTAGO",
+      "Codigo" : "302"
    },
    "type" : "Feature"
 }

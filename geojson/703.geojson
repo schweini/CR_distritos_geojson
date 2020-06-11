@@ -1,10 +1,4 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "SIQUIRRES",
-      "Provincia" : "LIMON",
-      "Codigo" : "703"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -9161,5 +9155,11 @@
             ]
          ]
       ]
-   }
+   },
+   "properties" : {
+      "Codigo" : "703",
+      "Canton" : "SIQUIRRES",
+      "Provincia" : "LIMON"
+   },
+   "type" : "Feature"
 }

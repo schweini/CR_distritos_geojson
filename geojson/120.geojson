@@ -1,8 +1,9 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "SAN JOSE",
-      "Codigo" : "120",
-      "Canton" : "LEON CORTES"
+      "Canton" : "LEON CORTES",
+      "Codigo" : "120"
    },
    "geometry" : {
       "coordinates" : [
@@ -4300,6 +4301,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+   }
 }

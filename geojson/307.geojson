@@ -1,5 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "307",
+      "Provincia" : "CARTAGO",
+      "Canton" : "OREAMUNO"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4773,13 +4780,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Canton" : "OREAMUNO",
-      "Codigo" : "307",
-      "Provincia" : "CARTAGO"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

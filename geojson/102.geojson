@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Codigo" : "102",
+      "Canton" : "ESCAZU",
+      "Provincia" : "SAN JOSE"
+   },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2115,11 +2121,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Codigo" : "102",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "ESCAZU"
-   },
-   "type" : "Feature"
+   }
 }

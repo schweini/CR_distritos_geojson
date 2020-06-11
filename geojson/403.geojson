@@ -1,10 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Codigo" : "403",
       "Provincia" : "HEREDIA",
       "Canton" : "SANTO DOMINGO"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2630,8 +2632,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

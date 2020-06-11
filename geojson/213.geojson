@@ -1,6 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "UPALA",
+      "Codigo" : "213"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7786,12 +7791,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "213",
-      "Canton" : "UPALA"
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2101,9 +2100,10 @@
          ]
       ]
    },
+   "type" : "Feature",
    "properties" : {
+      "Codigo" : "303",
       "Canton" : "LA UNION",
-      "Provincia" : "CARTAGO",
-      "Codigo" : "303"
+      "Provincia" : "CARTAGO"
    }
 }

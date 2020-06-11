@@ -1,5 +1,10 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "LIMON",
+      "Canton" : "GUACIMO",
+      "Codigo" : "706"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -7848,10 +7853,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Codigo" : "706",
-      "Provincia" : "LIMON",
-      "Canton" : "GUACIMO"
    }
 }

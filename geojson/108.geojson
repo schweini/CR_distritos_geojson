@@ -1,12 +1,5 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "GOICOECHEA",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "108"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4660,6 +4653,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "108",
+      "Canton" : "GOICOECHEA",
+      "Provincia" : "SAN JOSE"
    }
 }

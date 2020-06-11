@@ -1,7 +1,5 @@
 {
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2971,11 +2969,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
+   "type" : "Feature",
    "properties" : {
+      "Codigo" : "306",
       "Canton" : "ALVARADO",
-      "Provincia" : "CARTAGO",
-      "Codigo" : "306"
+      "Provincia" : "CARTAGO"
    }
 }

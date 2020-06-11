@@ -1,10 +1,4 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "SAN ISIDRO",
-      "Codigo" : "406",
-      "Provincia" : "HEREDIA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1821,5 +1815,11 @@
             ]
          ]
       ]
+   },
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "406",
+      "Canton" : "SAN ISIDRO",
+      "Provincia" : "HEREDIA"
    }
 }

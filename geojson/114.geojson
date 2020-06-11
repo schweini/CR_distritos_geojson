@@ -1,10 +1,4 @@
 {
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "114",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "MORAVIA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3909,5 +3903,11 @@
             ]
          ]
       ]
+   },
+   "type" : "Feature",
+   "properties" : {
+      "Canton" : "MORAVIA",
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "114"
    }
 }

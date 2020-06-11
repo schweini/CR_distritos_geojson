@@ -1,5 +1,10 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "104",
+      "Provincia" : "SAN JOSE",
+      "Canton" : "PURISCAL"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -10728,10 +10733,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Codigo" : "104",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "PURISCAL"
    }
 }

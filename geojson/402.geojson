@@ -1,4 +1,9 @@
 {
+   "properties" : {
+      "Codigo" : "402",
+      "Provincia" : "HEREDIA",
+      "Canton" : "BARVA"
+   },
    "type" : "Feature",
    "geometry" : {
       "coordinates" : [
@@ -1780,10 +1785,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Canton" : "BARVA",
-      "Codigo" : "402",
-      "Provincia" : "HEREDIA"
    }
 }
