@@ -1,5 +1,6 @@
 {
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4565,14 +4566,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
       "Provincia" : "ALAJUELA",
       "Distrito" : "SAN PEDRO",
       "Canton" : "VALVERDE VEGA",
       "Codigo" : "21204"
-   }
+   },
+   "type" : "Feature"
 }

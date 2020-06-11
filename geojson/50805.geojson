@@ -1,8 +1,9 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Distrito" : "LIBANO",
       "Canton" : "TILARAN",
       "Codigo" : "50805",
-      "Distrito" : "LIBANO",
       "Provincia" : "GUANACASTE"
    },
    "geometry" : {
@@ -1493,6 +1494,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+   }
 }

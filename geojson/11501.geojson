@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "MONTES DE OCA",
+      "Codigo" : "11501",
+      "Distrito" : "SAN PEDRO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -928,11 +934,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Canton" : "MONTES DE OCA",
-      "Codigo" : "11501",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN PEDRO"
    }
 }

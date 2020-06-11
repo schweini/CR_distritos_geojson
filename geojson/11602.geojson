@@ -1,11 +1,11 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Provincia" : "SAN JOSE",
       "Codigo" : "11602",
       "Canton" : "TURRUBARES",
-      "Provincia" : "SAN JOSE",
       "Distrito" : "SAN PEDRO"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [

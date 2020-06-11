@@ -1,6 +1,5 @@
 {
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1598,13 +1597,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Provincia" : "CARTAGO",
-      "Distrito" : "COT",
+      "Canton" : "OREAMUNO",
       "Codigo" : "30702",
-      "Canton" : "OREAMUNO"
-   }
+      "Distrito" : "COT"
+   },
+   "type" : "Feature"
 }

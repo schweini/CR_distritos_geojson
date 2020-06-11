@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "SAN JUAN DE DIOS",
+      "Codigo" : "10303",
+      "Canton" : "DESAMPARADOS"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -711,12 +718,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN JUAN DE DIOS",
-      "Canton" : "DESAMPARADOS",
-      "Codigo" : "10303"
    }
 }

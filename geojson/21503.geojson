@@ -1,11 +1,6 @@
 {
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "COTE",
-      "Codigo" : "21503",
-      "Canton" : "GUATUSO"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3079,8 +3074,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "21503",
+      "Canton" : "GUATUSO",
+      "Distrito" : "COTE"
    },
    "type" : "Feature"
 }

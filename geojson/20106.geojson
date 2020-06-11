@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4236,11 +4237,10 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
       "Distrito" : "SAN ISIDRO",
-      "Provincia" : "ALAJUELA",
+      "Codigo" : "20106",
       "Canton" : "ALAJUELA",
-      "Codigo" : "20106"
+      "Provincia" : "ALAJUELA"
    }
 }

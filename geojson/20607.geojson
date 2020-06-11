@@ -1,12 +1,13 @@
 {
-   "properties" : {
-      "Distrito" : "EL ROSARIO",
-      "Provincia" : "ALAJUELA",
-      "Canton" : "NARANJO",
-      "Codigo" : "20607"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "20607",
+      "Canton" : "NARANJO",
+      "Distrito" : "EL ROSARIO"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2936,7 +2937,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

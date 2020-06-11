@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "JIMENEZ",
-      "Codigo" : "30402",
-      "Distrito" : "TUCURRIQUE",
-      "Provincia" : "CARTAGO"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1337,6 +1329,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Canton" : "JIMENEZ",
+      "Codigo" : "30402",
+      "Distrito" : "TUCURRIQUE"
+   },
+   "type" : "Feature"
 }

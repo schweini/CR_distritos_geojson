@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Provincia" : "LIMON",
       "Distrito" : "SIQUIRRES",
       "Codigo" : "70301",
-      "Canton" : "SIQUIRRES"
+      "Canton" : "SIQUIRRES",
+      "Provincia" : "LIMON"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5423,8 +5425,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

@@ -1,9 +1,9 @@
 {
    "properties" : {
-      "Distrito" : "SAN ISIDRO",
       "Provincia" : "ALAJUELA",
+      "Codigo" : "20207",
       "Canton" : "SAN RAMON",
-      "Codigo" : "20207"
+      "Distrito" : "SAN ISIDRO"
    },
    "geometry" : {
       "type" : "MultiPolygon",

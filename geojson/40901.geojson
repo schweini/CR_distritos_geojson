@@ -1,12 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "HEREDIA",
-      "Distrito" : "SAN PABLO",
+      "Codigo" : "40901",
       "Canton" : "SAN PABLO",
-      "Codigo" : "40901"
+      "Distrito" : "SAN PABLO"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -568,7 +568,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "geometry" : {
+      "coordinates" : [
+         [
+            []
+         ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Canton" : "SANTA CRUZ",
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "503"
+   }
+}

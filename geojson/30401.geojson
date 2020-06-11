@@ -1,12 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "CARTAGO",
-      "Distrito" : "JUAN VIÑAS",
+      "Codigo" : "30401",
       "Canton" : "JIMENEZ",
-      "Codigo" : "30401"
+      "Distrito" : "JUAN VIÑAS"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1808,7 +1809,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

@@ -1,13 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Canton" : "MONTES DE ORO",
-      "Codigo" : "60402",
       "Provincia" : "PUNTARENAS",
+      "Codigo" : "60402",
+      "Canton" : "MONTES DE ORO",
       "Distrito" : "LA UNION"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3525,6 +3524,7 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    }
 }

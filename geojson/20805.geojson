@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SABANA REDONDA",
-      "Codigo" : "20805",
-      "Canton" : "POAS"
-   },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1922,5 +1917,10 @@
          ]
       ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "SABANA REDONDA",
+      "Canton" : "POAS",
+      "Codigo" : "20805"
+   }
 }

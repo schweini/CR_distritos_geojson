@@ -1,12 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Provincia" : "GUANACASTE",
       "Codigo" : "50603",
       "Canton" : "CAÑAS",
-      "Distrito" : "SAN MIGUEL",
-      "Provincia" : "GUANACASTE"
+      "Distrito" : "SAN MIGUEL"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3420,7 +3420,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

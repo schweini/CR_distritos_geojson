@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Canton" : "ZARCERO",
+      "Codigo" : "21104",
+      "Distrito" : "GUADALUPE",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2932,11 +2938,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "GUADALUPE",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "21104",
-      "Canton" : "ZARCERO"
-   }
+   "type" : "Feature"
 }

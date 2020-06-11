@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "LLANO GRANDE",
-      "Canton" : "CARTAGO",
-      "Codigo" : "30110"
-   },
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -2238,5 +2233,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Distrito" : "LLANO GRANDE",
+      "Codigo" : "30110",
+      "Canton" : "CARTAGO"
+   }
 }

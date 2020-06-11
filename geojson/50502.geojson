@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "50502",
+      "Canton" : "CARRILLO",
+      "Distrito" : "PALMIRA"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2128,11 +2134,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "PALMIRA",
-      "Provincia" : "GUANACASTE",
-      "Codigo" : "50502",
-      "Canton" : "CARRILLO"
-   }
+   "type" : "Feature"
 }

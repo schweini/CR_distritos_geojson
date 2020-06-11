@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "PAVONES",
+      "Canton" : "TURRIALBA",
+      "Codigo" : "30506",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1504,11 +1510,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Codigo" : "30506",
-      "Canton" : "TURRIALBA",
-      "Distrito" : "PAVONES",
-      "Provincia" : "CARTAGO"
    }
 }

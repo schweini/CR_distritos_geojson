@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "SANTA ROSA",
-      "Codigo" : "50804",
-      "Canton" : "TILARAN"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2777,6 +2770,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Codigo" : "50804",
+      "Canton" : "TILARAN",
+      "Distrito" : "SANTA ROSA",
+      "Provincia" : "GUANACASTE"
    }
 }

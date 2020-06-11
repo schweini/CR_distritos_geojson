@@ -1,5 +1,13 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "SAN ANTONIO",
+      "Codigo" : "20104",
+      "Canton" : "ALAJUELA",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1725,14 +1733,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "ALAJUELA",
-      "Codigo" : "20104",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN ANTONIO"
+      ]
    }
 }

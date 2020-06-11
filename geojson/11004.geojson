@@ -668,11 +668,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "CONCEPCION",
       "Provincia" : "SAN JOSE",
-      "Canton" : "ALAJUELITA",
-      "Codigo" : "11004"
-   }
+      "Distrito" : "CONCEPCION",
+      "Codigo" : "11004",
+      "Canton" : "ALAJUELITA"
+   },
+   "type" : "Feature"
 }

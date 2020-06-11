@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -2867,8 +2866,9 @@
    },
    "properties" : {
       "Distrito" : "GUAPILES",
-      "Provincia" : "LIMON",
+      "Canton" : "POCOCI",
       "Codigo" : "70201",
-      "Canton" : "POCOCI"
-   }
+      "Provincia" : "LIMON"
+   },
+   "type" : "Feature"
 }

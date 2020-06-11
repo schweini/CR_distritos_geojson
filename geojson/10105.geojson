@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "ZAPOTE",
+      "Codigo" : "10105",
+      "Canton" : "SAN JOSE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -950,13 +957,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Distrito" : "ZAPOTE",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "10105",
-      "Canton" : "SAN JOSE"
+      ]
    }
 }

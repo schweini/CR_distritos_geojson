@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "21501",
-      "Canton" : "GUATUSO",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN RAFAEL"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -8385,6 +8377,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "SAN RAFAEL",
+      "Canton" : "GUATUSO",
+      "Codigo" : "21501",
+      "Provincia" : "ALAJUELA"
+   },
+   "type" : "Feature"
 }

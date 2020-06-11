@@ -1,12 +1,7 @@
 {
-   "properties" : {
-      "Distrito" : "JESUS",
-      "Provincia" : "HEREDIA",
-      "Codigo" : "40404",
-      "Canton" : "SANTA BARBARA"
-   },
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1464,7 +1459,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Codigo" : "40404",
+      "Canton" : "SANTA BARBARA",
+      "Distrito" : "JESUS",
+      "Provincia" : "HEREDIA"
    }
 }

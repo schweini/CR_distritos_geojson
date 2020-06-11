@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Codigo" : "40504",
+      "Canton" : "SAN RAFAEL",
+      "Distrito" : "ANGELES"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1488,11 +1494,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Provincia" : "HEREDIA",
-      "Distrito" : "ANGELES",
-      "Canton" : "SAN RAFAEL",
-      "Codigo" : "40504"
    }
 }

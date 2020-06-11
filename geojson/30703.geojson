@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Distrito" : "POTRERO CERRADO",
+      "Codigo" : "30703",
+      "Canton" : "OREAMUNO"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1315,12 +1319,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Distrito" : "POTRERO CERRADO",
-      "Provincia" : "CARTAGO",
-      "Canton" : "OREAMUNO",
-      "Codigo" : "30703"
-   }
+   "type" : "Feature"
 }

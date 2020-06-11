@@ -2,12 +2,10 @@
    "properties" : {
       "Provincia" : "SAN JOSE",
       "Distrito" : "URUCA",
-      "Codigo" : "10904",
-      "Canton" : "SANTA ANA"
+      "Canton" : "SANTA ANA",
+      "Codigo" : "10904"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1589,6 +1587,8 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
 }

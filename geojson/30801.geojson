@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "30801",
+      "Canton" : "EL GUARCO",
+      "Distrito" : "EL TEJAR",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1208,11 +1214,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Distrito" : "EL TEJAR",
-      "Provincia" : "CARTAGO",
-      "Codigo" : "30801",
-      "Canton" : "EL GUARCO"
    }
 }

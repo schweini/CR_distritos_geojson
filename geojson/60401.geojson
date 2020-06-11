@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Canton" : "MONTES DE ORO",
+      "Codigo" : "60401",
+      "Distrito" : "MIRAMAR",
+      "Provincia" : "PUNTARENAS"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4464,11 +4470,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "MIRAMAR",
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "60401",
-      "Canton" : "MONTES DE ORO"
-   }
+   "type" : "Feature"
 }

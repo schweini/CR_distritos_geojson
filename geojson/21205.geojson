@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2676,11 +2677,10 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "VALVERDE VEGA",
-      "Codigo" : "21205",
       "Distrito" : "RODRIGUEZ",
+      "Codigo" : "21205",
+      "Canton" : "VALVERDE VEGA",
       "Provincia" : "ALAJUELA"
    }
 }

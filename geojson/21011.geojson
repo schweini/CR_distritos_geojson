@@ -1,7 +1,6 @@
 {
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -11223,12 +11222,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
-      "Distrito" : "CUTRIS",
       "Provincia" : "ALAJUELA",
-      "Canton" : "SAN CARLOS",
-      "Codigo" : "21011"
+      "Distrito" : "CUTRIS",
+      "Codigo" : "21011",
+      "Canton" : "SAN CARLOS"
    }
 }

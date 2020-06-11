@@ -1,6 +1,7 @@
 {
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1074,13 +1075,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
       "Provincia" : "CARTAGO",
-      "Distrito" : "SAN DIEGO",
+      "Codigo" : "30302",
       "Canton" : "LA UNION",
-      "Codigo" : "30302"
+      "Distrito" : "SAN DIEGO"
    }
 }

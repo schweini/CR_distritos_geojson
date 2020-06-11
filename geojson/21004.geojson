@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -6184,10 +6185,9 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "AGUAS ZARCAS",
       "Provincia" : "ALAJUELA",
+      "Distrito" : "AGUAS ZARCAS",
       "Codigo" : "21004",
       "Canton" : "SAN CARLOS"
    }

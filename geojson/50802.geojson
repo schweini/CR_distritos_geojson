@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "TILARAN",
-      "Codigo" : "50802",
-      "Distrito" : "QUEBRADA GRANDE",
-      "Provincia" : "GUANACASTE"
-   },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -5094,5 +5087,12 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Distrito" : "QUEBRADA GRANDE",
+      "Canton" : "TILARAN",
+      "Codigo" : "50802",
+      "Provincia" : "GUANACASTE"
+   },
+   "type" : "Feature"
 }

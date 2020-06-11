@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Codigo" : "40406",
-      "Canton" : "SANTA BARBARA",
       "Provincia" : "HEREDIA",
-      "Distrito" : "PURABA"
+      "Distrito" : "PURABA",
+      "Canton" : "SANTA BARBARA",
+      "Codigo" : "40406"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1314,5 +1313,6 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "type" : "Feature"
 }

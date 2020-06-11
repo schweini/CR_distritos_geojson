@@ -1,5 +1,6 @@
 {
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2493,14 +2494,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN MIGUEL",
       "Canton" : "NARANJO",
-      "Codigo" : "20602"
-   }
+      "Codigo" : "20602",
+      "Distrito" : "SAN MIGUEL",
+      "Provincia" : "ALAJUELA"
+   },
+   "type" : "Feature"
 }

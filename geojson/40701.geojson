@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "BELEN",
-      "Codigo" : "40701",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SAN ANTONIO"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -488,7 +481,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Canton" : "BELEN",
+      "Codigo" : "40701",
+      "Distrito" : "SAN ANTONIO"
    },
    "type" : "Feature"
 }

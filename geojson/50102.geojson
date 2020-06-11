@@ -5520,11 +5520,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "LIBERIA",
-      "Codigo" : "50102",
       "Provincia" : "GUANACASTE",
-      "Distrito" : "CAÑAS DULCES"
-   }
+      "Distrito" : "CAÑAS DULCES",
+      "Canton" : "LIBERIA",
+      "Codigo" : "50102"
+   },
+   "type" : "Feature"
 }

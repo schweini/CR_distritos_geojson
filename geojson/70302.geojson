@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Canton" : "SIQUIRRES",
+      "Codigo" : "70302",
+      "Distrito" : "PACUARITO",
+      "Provincia" : "LIMON"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -5585,10 +5590,5 @@
          ]
       ]
    },
-   "properties" : {
-      "Provincia" : "LIMON",
-      "Distrito" : "PACUARITO",
-      "Codigo" : "70302",
-      "Canton" : "SIQUIRRES"
-   }
+   "type" : "Feature"
 }

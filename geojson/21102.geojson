@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "21102",
+      "Canton" : "ZARCERO",
+      "Distrito" : "LAGUNA",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4552,11 +4558,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Codigo" : "21102",
-      "Canton" : "ZARCERO",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "LAGUNA"
    }
 }

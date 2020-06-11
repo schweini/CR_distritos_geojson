@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "12006",
-      "Canton" : "LEON CORTES",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN ANTONIO"
-   },
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -870,5 +865,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "SAN ANTONIO",
+      "Codigo" : "12006",
+      "Canton" : "LEON CORTES",
+      "Provincia" : "SAN JOSE"
+   }
 }

@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "21106",
+      "Canton" : "ZARCERO",
+      "Distrito" : "ZAPOTE",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2848,11 +2854,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Codigo" : "21106",
-      "Canton" : "ZARCERO",
-      "Distrito" : "ZAPOTE",
-      "Provincia" : "ALAJUELA"
    }
 }

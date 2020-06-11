@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -120,11 +121,10 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "SANTO DOMINGO",
       "Provincia" : "HEREDIA",
+      "Codigo" : "40301",
       "Canton" : "SANTO DOMINGO",
-      "Codigo" : "40301"
+      "Distrito" : "SANTO DOMINGO"
    }
 }

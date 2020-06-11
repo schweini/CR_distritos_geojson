@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "12005",
+      "Canton" : "LEON CORTES",
+      "Distrito" : "SANTA CRUZ"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1711,12 +1716,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Distrito" : "SANTA CRUZ",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "LEON CORTES",
-      "Codigo" : "12005"
+      ],
+      "type" : "MultiPolygon"
    }
 }

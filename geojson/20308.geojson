@@ -1,7 +1,6 @@
 {
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5347,12 +5346,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
       "Provincia" : "ALAJUELA",
       "Distrito" : "BOLIVAR",
-      "Codigo" : "20308",
-      "Canton" : "GRECIA"
+      "Canton" : "GRECIA",
+      "Codigo" : "20308"
    }
 }

@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "PARAMO",
       "Provincia" : "SAN JOSE",
-      "Canton" : "PEREZ ZELEDON",
-      "Codigo" : "11911"
+      "Distrito" : "PARAMO",
+      "Codigo" : "11911",
+      "Canton" : "PEREZ ZELEDON"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5255,8 +5257,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

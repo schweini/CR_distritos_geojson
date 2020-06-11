@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "VARABLANCA",
       "Provincia" : "HEREDIA",
       "Codigo" : "40105",
-      "Canton" : "HEREDIA"
+      "Canton" : "HEREDIA",
+      "Distrito" : "VARABLANCA"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5003,8 +5005,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

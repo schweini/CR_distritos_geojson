@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "SAN JOSECITO",
+      "Codigo" : "11002",
+      "Canton" : "ALAJUELITA"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -496,11 +502,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Codigo" : "11002",
-      "Canton" : "ALAJUELITA",
-      "Distrito" : "SAN JOSECITO",
-      "Provincia" : "SAN JOSE"
    }
 }

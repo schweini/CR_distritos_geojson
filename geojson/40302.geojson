@@ -1,12 +1,7 @@
 {
-   "properties" : {
-      "Distrito" : "SAN VICENTE",
-      "Provincia" : "HEREDIA",
-      "Codigo" : "40302",
-      "Canton" : "SANTO DOMINGO"
-   },
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -456,7 +451,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Distrito" : "SAN VICENTE",
+      "Codigo" : "40302",
+      "Canton" : "SANTO DOMINGO"
    }
 }

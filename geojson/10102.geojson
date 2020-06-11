@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "10102",
-      "Canton" : "SAN JOSE",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "MERCED"
-   },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -642,5 +637,10 @@
          ]
       ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "SAN JOSE",
+      "Codigo" : "10102",
+      "Distrito" : "MERCED"
+   }
 }

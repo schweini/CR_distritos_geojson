@@ -1,6 +1,7 @@
 {
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5276,13 +5277,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
-      "Provincia" : "LIMON",
-      "Distrito" : "CAHUITA",
+      "Codigo" : "70403",
       "Canton" : "TALAMANCA",
-      "Codigo" : "70403"
+      "Distrito" : "CAHUITA",
+      "Provincia" : "LIMON"
    }
 }

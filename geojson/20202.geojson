@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "SANTIAGO",
-      "Provincia" : "ALAJUELA",
-      "Canton" : "SAN RAMON",
-      "Codigo" : "20202"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4556,7 +4550,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Codigo" : "20202",
+      "Canton" : "SAN RAMON",
+      "Distrito" : "SANTIAGO",
+      "Provincia" : "ALAJUELA"
+   }
 }

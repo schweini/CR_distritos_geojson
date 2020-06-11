@@ -1,12 +1,13 @@
 {
-   "properties" : {
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "CHOMES",
-      "Codigo" : "60103",
-      "Canton" : "PUNTARENAS"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Canton" : "PUNTARENAS",
+      "Codigo" : "60103",
+      "Distrito" : "CHOMES",
+      "Provincia" : "PUNTARENAS"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4230,7 +4231,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

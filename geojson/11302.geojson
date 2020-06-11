@@ -1,6 +1,11 @@
 {
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "CINCO ESQUINAS",
+      "Codigo" : "11302",
+      "Canton" : "TIBAS"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -674,13 +679,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "TIBAS",
-      "Codigo" : "11302",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "CINCO ESQUINAS"
-   }
+   "type" : "Feature"
 }

@@ -1,6 +1,11 @@
 {
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "PEÑAS BLANCAS",
+      "Canton" : "SAN RAMON",
+      "Codigo" : "20213"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5630,13 +5635,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "PEÑAS BLANCAS",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "20213",
-      "Canton" : "SAN RAMON"
-   }
+   "type" : "Feature"
 }

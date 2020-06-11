@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Canton" : "HEREDIA",
+      "Codigo" : "40102",
+      "Distrito" : "MERCEDES"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -447,12 +454,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "40102",
-      "Canton" : "HEREDIA",
-      "Distrito" : "MERCEDES",
-      "Provincia" : "HEREDIA"
    }
 }

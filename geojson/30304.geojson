@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Codigo" : "30304",
+      "Canton" : "LA UNION",
+      "Distrito" : "SAN RAFAEL"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1191,12 +1195,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "SAN RAFAEL",
-      "Canton" : "LA UNION",
-      "Codigo" : "30304"
-   }
+   "type" : "Feature"
 }

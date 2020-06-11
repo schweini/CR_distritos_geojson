@@ -1,13 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Distrito" : "SAN JOSE O PIZOTE",
-      "Provincia" : "ALAJUELA",
       "Codigo" : "21303",
-      "Canton" : "UPALA"
+      "Canton" : "UPALA",
+      "Provincia" : "ALAJUELA"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3497,6 +3496,7 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    }
 }

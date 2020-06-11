@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "10203",
+      "Canton" : "ESCAZU",
+      "Distrito" : "SAN RAFAEL",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1698,13 +1705,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN RAFAEL",
-      "Codigo" : "10203",
-      "Canton" : "ESCAZU"
+      ]
    }
 }

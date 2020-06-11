@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Codigo" : "30504",
-      "Canton" : "TURRIALBA",
       "Provincia" : "CARTAGO",
+      "Canton" : "TURRIALBA",
+      "Codigo" : "30504",
       "Distrito" : "SANTA CRUZ"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2602,5 +2601,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "20304",
+      "Canton" : "GRECIA",
+      "Distrito" : "SAN ROQUE"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7071,12 +7075,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Distrito" : "SAN ROQUE",
-      "Provincia" : "ALAJUELA",
-      "Canton" : "GRECIA",
-      "Codigo" : "20304"
-   }
+   "type" : "Feature"
 }

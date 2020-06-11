@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "HOJANCHA",
+      "Codigo" : "51101",
+      "Canton" : "HOJANCHA"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1772,11 +1778,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "HOJANCHA",
-      "Canton" : "HOJANCHA",
-      "Codigo" : "51101"
-   }
+   "type" : "Feature"
 }

@@ -1,9 +1,9 @@
 {
    "properties" : {
+      "Provincia" : "CARTAGO",
       "Canton" : "TURRIALBA",
       "Codigo" : "30505",
-      "Distrito" : "SANTA TERESITA",
-      "Provincia" : "CARTAGO"
+      "Distrito" : "SANTA TERESITA"
    },
    "geometry" : {
       "type" : "MultiPolygon",

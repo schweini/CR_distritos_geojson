@@ -1,7 +1,5 @@
 {
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -12537,12 +12535,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
-      "Codigo" : "60901",
       "Canton" : "PARRITA",
+      "Codigo" : "60901",
       "Distrito" : "PARRITA",
       "Provincia" : "PUNTARENAS"
-   }
+   },
+   "type" : "Feature"
 }

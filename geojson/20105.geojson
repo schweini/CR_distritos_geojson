@@ -3234,9 +3234,9 @@
       ]
    },
    "properties" : {
+      "Provincia" : "ALAJUELA",
       "Codigo" : "20105",
       "Canton" : "ALAJUELA",
-      "Distrito" : "GUACIMA",
-      "Provincia" : "ALAJUELA"
+      "Distrito" : "GUACIMA"
    }
 }

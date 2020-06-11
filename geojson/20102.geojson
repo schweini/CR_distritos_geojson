@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1928,11 +1929,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Canton" : "ALAJUELA",
       "Codigo" : "20102",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN JOSE"
+      "Distrito" : "SAN JOSE",
+      "Provincia" : "ALAJUELA"
    }
 }

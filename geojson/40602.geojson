@@ -1,11 +1,7 @@
 {
-   "properties" : {
-      "Codigo" : "40602",
-      "Canton" : "SAN ISIDRO",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SAN JOSE"
-   },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1695,8 +1691,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "SAN JOSE",
+      "Canton" : "SAN ISIDRO",
+      "Codigo" : "40602",
+      "Provincia" : "HEREDIA"
+   }
 }

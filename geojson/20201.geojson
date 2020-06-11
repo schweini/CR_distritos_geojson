@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "20201",
+      "Canton" : "SAN RAMON",
+      "Distrito" : "SAN RAMON"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -163,12 +170,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN RAMON",
-      "Codigo" : "20201",
-      "Canton" : "SAN RAMON"
    }
 }

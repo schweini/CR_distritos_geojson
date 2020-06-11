@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "DAMAS",
+      "Canton" : "DESAMPARADOS",
+      "Codigo" : "10310",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1090,13 +1097,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Codigo" : "10310",
-      "Canton" : "DESAMPARADOS",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "DAMAS"
+      ]
    }
 }

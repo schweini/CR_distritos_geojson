@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "60304",
-      "Canton" : "BUENOS AIRES",
-      "Distrito" : "BORUCA",
-      "Provincia" : "PUNTARENAS"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2893,6 +2887,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "BORUCA",
+      "Canton" : "BUENOS AIRES",
+      "Codigo" : "60304"
    },
    "type" : "Feature"
 }

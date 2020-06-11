@@ -1,7 +1,5 @@
 {
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6539,12 +6537,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
-      "Distrito" : "PITTIER",
       "Provincia" : "PUNTARENAS",
       "Canton" : "COTO BRUS",
-      "Codigo" : "60805"
-   }
+      "Codigo" : "60805",
+      "Distrito" : "PITTIER"
+   },
+   "type" : "Feature"
 }

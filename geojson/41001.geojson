@@ -1,5 +1,12 @@
 {
+   "properties" : {
+      "Canton" : "SARAPIQUI",
+      "Codigo" : "41001",
+      "Distrito" : "PUERTO VIEJO",
+      "Provincia" : "HEREDIA"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5337,14 +5344,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "HEREDIA",
-      "Distrito" : "PUERTO VIEJO",
-      "Canton" : "SARAPIQUI",
-      "Codigo" : "41001"
-   }
+   "type" : "Feature"
 }

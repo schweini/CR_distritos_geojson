@@ -1,12 +1,11 @@
 {
    "properties" : {
-      "Distrito" : "PACAYAS",
       "Provincia" : "CARTAGO",
+      "Distrito" : "PACAYAS",
       "Canton" : "ALVARADO",
       "Codigo" : "30601"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1732,7 +1731,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "type" : "Feature"
 }

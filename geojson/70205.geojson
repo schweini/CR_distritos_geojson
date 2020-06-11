@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "LIMON",
+      "Distrito" : "CARIARI",
+      "Canton" : "POCOCI",
+      "Codigo" : "70205"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -7572,11 +7578,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Canton" : "POCOCI",
-      "Codigo" : "70205",
-      "Provincia" : "LIMON",
-      "Distrito" : "CARIARI"
    }
 }

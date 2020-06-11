@@ -3280,11 +3280,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Codigo" : "20212",
+      "Provincia" : "ALAJUELA",
       "Canton" : "SAN RAMON",
-      "Distrito" : "ZAPOTAL",
-      "Provincia" : "ALAJUELA"
-   }
+      "Codigo" : "20212",
+      "Distrito" : "ZAPOTAL"
+   },
+   "type" : "Feature"
 }

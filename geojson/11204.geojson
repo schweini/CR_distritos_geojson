@@ -1,11 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "CANGREJAL",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "ACOSTA",
-      "Codigo" : "11204"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1795,8 +1790,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Canton" : "ACOSTA",
+      "Codigo" : "11204",
+      "Distrito" : "CANGREJAL",
+      "Provincia" : "SAN JOSE"
    },
    "type" : "Feature"
 }

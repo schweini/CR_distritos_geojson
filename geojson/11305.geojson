@@ -752,11 +752,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Provincia" : "SAN JOSE",
       "Distrito" : "COLIMA",
       "Canton" : "TIBAS",
-      "Codigo" : "11305"
-   }
+      "Codigo" : "11305",
+      "Provincia" : "SAN JOSE"
+   },
+   "type" : "Feature"
 }

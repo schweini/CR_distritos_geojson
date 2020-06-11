@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "CHIRA",
+      "Codigo" : "60113",
+      "Canton" : "PUNTARENAS"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2131,12 +2138,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "CHIRA",
-      "Provincia" : "PUNTARENAS",
-      "Canton" : "PUNTARENAS",
-      "Codigo" : "60113"
    }
 }

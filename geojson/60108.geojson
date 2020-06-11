@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "60108",
+      "Canton" : "PUNTARENAS",
+      "Distrito" : "BARRANCA",
+      "Provincia" : "PUNTARENAS"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2872,11 +2878,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Distrito" : "BARRANCA",
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "60108",
-      "Canton" : "PUNTARENAS"
    }
 }

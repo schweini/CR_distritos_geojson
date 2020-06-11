@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Canton" : "SIQUIRRES",
-      "Codigo" : "70304",
       "Provincia" : "LIMON",
-      "Distrito" : "GERMANIA"
+      "Distrito" : "GERMANIA",
+      "Codigo" : "70304",
+      "Canton" : "SIQUIRRES"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2002,5 +2001,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

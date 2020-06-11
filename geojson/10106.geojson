@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "SAN JOSE",
-      "Codigo" : "10106",
-      "Distrito" : "SAN FRANCISCO DE DOS RIOS",
-      "Provincia" : "SAN JOSE"
-   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1161,6 +1155,12 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "SAN JOSE",
+      "Codigo" : "10106",
+      "Distrito" : "SAN FRANCISCO DE DOS RIOS"
    },
    "type" : "Feature"
 }

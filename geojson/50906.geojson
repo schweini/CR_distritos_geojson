@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "50906",
+      "Canton" : "NANDAYURE",
+      "Distrito" : "BEJUCO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -6532,11 +6538,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "BEJUCO",
-      "Provincia" : "GUANACASTE",
-      "Codigo" : "50906",
-      "Canton" : "NANDAYURE"
-   }
+   "type" : "Feature"
 }

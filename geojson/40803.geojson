@@ -1,11 +1,12 @@
 {
    "properties" : {
-      "Canton" : "FLORES",
-      "Codigo" : "40803",
+      "Provincia" : "HEREDIA",
       "Distrito" : "LLORENTE",
-      "Provincia" : "HEREDIA"
+      "Canton" : "FLORES",
+      "Codigo" : "40803"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -463,8 +464,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "type" : "Feature"
 }

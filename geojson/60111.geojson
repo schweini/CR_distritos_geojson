@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "COBANO",
+      "Codigo" : "60111",
+      "Canton" : "PUNTARENAS",
+      "Provincia" : "PUNTARENAS"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -10881,10 +10886,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Canton" : "PUNTARENAS",
-      "Codigo" : "60111",
-      "Distrito" : "COBANO",
-      "Provincia" : "PUNTARENAS"
-   }
+   "type" : "Feature"
 }

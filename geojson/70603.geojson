@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -5090,9 +5089,10 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
-      "Codigo" : "70603",
-      "Canton" : "GUACIMO",
       "Provincia" : "LIMON",
-      "Distrito" : "POCORA"
-   }
+      "Distrito" : "POCORA",
+      "Canton" : "GUACIMO",
+      "Codigo" : "70603"
+   },
+   "type" : "Feature"
 }

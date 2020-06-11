@@ -1,5 +1,12 @@
 {
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "DESAMPARADOS",
+      "Canton" : "ALAJUELA",
+      "Codigo" : "20110"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1609,14 +1616,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "DESAMPARADOS",
-      "Codigo" : "20110",
-      "Canton" : "ALAJUELA"
-   }
+   "type" : "Feature"
 }

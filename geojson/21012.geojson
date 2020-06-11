@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "MONTERREY",
       "Codigo" : "21012",
-      "Canton" : "SAN CARLOS"
+      "Canton" : "SAN CARLOS",
+      "Distrito" : "MONTERREY",
+      "Provincia" : "ALAJUELA"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5735,8 +5737,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

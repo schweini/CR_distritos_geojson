@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "PICAGRES",
-      "Codigo" : "10705",
-      "Canton" : "MORA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1705,6 +1699,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "PICAGRES",
+      "Canton" : "MORA",
+      "Codigo" : "10705"
    },
    "type" : "Feature"
 }

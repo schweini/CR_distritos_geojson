@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "PEJIBAYE",
+      "Codigo" : "11907",
+      "Canton" : "PEREZ ZELEDON",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -4299,12 +4306,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "PEREZ ZELEDON",
-      "Codigo" : "11907",
-      "Distrito" : "PEJIBAYE",
-      "Provincia" : "SAN JOSE"
    }
 }

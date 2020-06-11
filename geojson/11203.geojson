@@ -1,12 +1,7 @@
 {
-   "properties" : {
-      "Canton" : "ACOSTA",
-      "Codigo" : "11203",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "PALMICHAL"
-   },
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2092,7 +2087,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Distrito" : "PALMICHAL",
+      "Codigo" : "11203",
+      "Canton" : "ACOSTA",
+      "Provincia" : "SAN JOSE"
    }
 }

@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "70202",
-      "Canton" : "POCOCI",
-      "Provincia" : "LIMON",
-      "Distrito" : "JIMENES"
-   },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -3390,5 +3383,12 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Distrito" : "JIMENES",
+      "Canton" : "POCOCI",
+      "Codigo" : "70202",
+      "Provincia" : "LIMON"
+   },
+   "type" : "Feature"
 }

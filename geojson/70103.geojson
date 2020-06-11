@@ -1,7 +1,5 @@
 {
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3435,12 +3433,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
+      "Provincia" : "LIMON",
       "Codigo" : "70103",
       "Canton" : "LIMON",
-      "Provincia" : "LIMON",
       "Distrito" : "RIO BLANCO"
-   }
+   },
+   "type" : "Feature"
 }

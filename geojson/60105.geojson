@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Distrito" : "PAQUERA",
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "60105",
-      "Canton" : "PUNTARENAS"
-   },
    "geometry" : {
       "coordinates" : [
          [
@@ -18484,6 +18478,12 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "PAQUERA",
+      "Canton" : "PUNTARENAS",
+      "Codigo" : "60105",
+      "Provincia" : "PUNTARENAS"
    },
    "type" : "Feature"
 }

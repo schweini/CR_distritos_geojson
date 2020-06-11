@@ -1,11 +1,12 @@
 {
    "properties" : {
       "Distrito" : "SAN ANTONIO",
-      "Provincia" : "GUANACASTE",
       "Canton" : "NICOYA",
-      "Codigo" : "50203"
+      "Codigo" : "50203",
+      "Provincia" : "GUANACASTE"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5155,8 +5156,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "type" : "Feature"
 }

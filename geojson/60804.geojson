@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "LIMONCITO",
+      "Canton" : "COTO BRUS",
+      "Codigo" : "60804"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3791,12 +3795,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Codigo" : "60804",
-      "Canton" : "COTO BRUS",
-      "Distrito" : "LIMONCITO",
-      "Provincia" : "PUNTARENAS"
-   }
+   "type" : "Feature"
 }

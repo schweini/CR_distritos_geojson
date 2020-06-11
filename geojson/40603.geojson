@@ -1,11 +1,11 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Distrito" : "CONCEPCION",
       "Canton" : "SAN ISIDRO",
       "Codigo" : "40603",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "CONCEPCION"
+      "Provincia" : "HEREDIA"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [

@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "PEREZ ZELEDON",
+      "Codigo" : "11910",
+      "Distrito" : "RIO NUEVO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -6047,12 +6054,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "RIO NUEVO",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "PEREZ ZELEDON",
-      "Codigo" : "11910"
    }
 }

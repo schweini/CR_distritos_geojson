@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Canton" : "ALAJUELA",
-      "Codigo" : "20113",
       "Provincia" : "ALAJUELA",
-      "Distrito" : "GARITA"
+      "Distrito" : "GARITA",
+      "Canton" : "ALAJUELA",
+      "Codigo" : "20113"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -2874,5 +2873,6 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "type" : "Feature"
 }

@@ -1,6 +1,11 @@
 {
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Distrito" : "QUEBRADILLAS",
+      "Codigo" : "30111",
+      "Canton" : "CARTAGO"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2078,13 +2083,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "QUEBRADILLAS",
-      "Provincia" : "CARTAGO",
-      "Canton" : "CARTAGO",
-      "Codigo" : "30111"
-   }
+   "type" : "Feature"
 }

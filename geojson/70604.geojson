@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "70604",
-      "Canton" : "GUACIMO",
-      "Distrito" : "RIO JIMENES",
-      "Provincia" : "LIMON"
-   },
    "type" : "Feature",
    "geometry" : {
       "coordinates" : [
@@ -5018,5 +5012,11 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "LIMON",
+      "Codigo" : "70604",
+      "Canton" : "GUACIMO",
+      "Distrito" : "RIO JIMENES"
    }
 }

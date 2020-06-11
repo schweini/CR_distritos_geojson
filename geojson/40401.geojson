@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Canton" : "SANTA BARBARA",
+      "Codigo" : "40401",
+      "Distrito" : "SANTA BARBARA"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -335,12 +342,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "40401",
-      "Canton" : "SANTA BARBARA",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SANTA BARBARA"
    }
 }

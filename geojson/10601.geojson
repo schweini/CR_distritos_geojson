@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "ASERRI",
-      "Codigo" : "10601",
-      "Canton" : "ASERRI"
-   },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1438,5 +1431,12 @@
             ]
          ]
       ]
-   }
+   },
+   "properties" : {
+      "Distrito" : "ASERRI",
+      "Codigo" : "10601",
+      "Canton" : "ASERRI",
+      "Provincia" : "SAN JOSE"
+   },
+   "type" : "Feature"
 }

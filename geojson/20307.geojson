@@ -1,7 +1,5 @@
 {
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4355,12 +4353,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
-      "Canton" : "GRECIA",
-      "Codigo" : "20307",
       "Provincia" : "ALAJUELA",
-      "Distrito" : "PUENTE DE PIEDRA"
-   }
+      "Distrito" : "PUENTE DE PIEDRA",
+      "Canton" : "GRECIA",
+      "Codigo" : "20307"
+   },
+   "type" : "Feature"
 }

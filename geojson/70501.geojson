@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Provincia" : "LIMON",
-      "Distrito" : "MATINA",
+      "Canton" : "MATINA",
       "Codigo" : "70501",
-      "Canton" : "MATINA"
+      "Distrito" : "MATINA",
+      "Provincia" : "LIMON"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -8599,8 +8601,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

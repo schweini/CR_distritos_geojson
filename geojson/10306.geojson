@@ -1,6 +1,12 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "10306",
+      "Canton" : "DESAMPARADOS",
+      "Distrito" : "FRAILES"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1706,13 +1712,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "FRAILES",
-      "Codigo" : "10306",
-      "Canton" : "DESAMPARADOS"
-   }
+   "type" : "Feature"
 }

@@ -2044,11 +2044,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Canton" : "ALAJUELA",
       "Codigo" : "20101",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "ALAJUELA"
-   }
+      "Distrito" : "ALAJUELA",
+      "Provincia" : "ALAJUELA"
+   },
+   "type" : "Feature"
 }

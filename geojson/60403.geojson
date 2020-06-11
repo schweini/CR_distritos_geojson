@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Codigo" : "60403",
-      "Canton" : "MONTES DE ORO",
       "Provincia" : "PUNTARENAS",
+      "Canton" : "MONTES DE ORO",
+      "Codigo" : "60403",
       "Distrito" : "SAN ISIDRO"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3014,5 +3013,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

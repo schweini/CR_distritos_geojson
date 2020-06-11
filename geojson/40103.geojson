@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Codigo" : "40103",
+      "Canton" : "HEREDIA",
+      "Distrito" : "SAN FRANCISCO"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1023,12 +1027,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Distrito" : "SAN FRANCISCO",
-      "Provincia" : "HEREDIA",
-      "Canton" : "HEREDIA",
-      "Codigo" : "40103"
-   }
+   "type" : "Feature"
 }

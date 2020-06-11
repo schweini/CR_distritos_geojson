@@ -1,6 +1,6 @@
 {
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1358,13 +1358,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "ZARCERO",
       "Provincia" : "ALAJUELA",
-      "Canton" : "ZARCERO",
-      "Codigo" : "21101"
+      "Distrito" : "ZARCERO",
+      "Codigo" : "21101",
+      "Canton" : "ZARCERO"
    }
 }

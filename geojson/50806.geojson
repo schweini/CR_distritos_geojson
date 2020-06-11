@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Distrito" : "TIERRAS MORENAS",
-      "Provincia" : "GUANACASTE",
-      "Canton" : "TILARAN",
-      "Codigo" : "50806"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3700,7 +3693,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "TIERRAS MORENAS",
+      "Canton" : "TILARAN",
+      "Codigo" : "50806"
    },
    "type" : "Feature"
 }

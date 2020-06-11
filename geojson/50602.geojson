@@ -1,13 +1,11 @@
 {
    "properties" : {
-      "Canton" : "CAÑAS",
       "Codigo" : "50602",
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "PALMIRA"
+      "Canton" : "CAÑAS",
+      "Distrito" : "PALMIRA",
+      "Provincia" : "GUANACASTE"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4505,6 +4503,8 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
 }

@@ -1,6 +1,6 @@
 {
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1066,13 +1066,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "PATIO DE AGUA",
+      "Canton" : "EL GUARCO",
       "Codigo" : "30804",
-      "Canton" : "EL GUARCO"
-   }
+      "Distrito" : "PATIO DE AGUA",
+      "Provincia" : "CARTAGO"
+   },
+   "type" : "Feature"
 }

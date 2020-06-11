@@ -1,9 +1,10 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Codigo" : "40503",
+      "Distrito" : "SANTIAGO",
       "Canton" : "SAN RAFAEL",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SANTIAGO"
+      "Codigo" : "40503",
+      "Provincia" : "HEREDIA"
    },
    "geometry" : {
       "coordinates" : [
@@ -365,6 +366,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+   }
 }

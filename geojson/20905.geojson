@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "20905",
-      "Canton" : "OROTINA",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "LA CEIBA"
-   },
    "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
@@ -3194,5 +3188,11 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "LA CEIBA",
+      "Codigo" : "20905",
+      "Canton" : "OROTINA"
    }
 }

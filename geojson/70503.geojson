@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Provincia" : "LIMON",
+      "Distrito" : "CARRANDI",
+      "Canton" : "MATINA",
+      "Codigo" : "70503"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4984,11 +4990,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "MATINA",
-      "Codigo" : "70503",
-      "Distrito" : "CARRANDI",
-      "Provincia" : "LIMON"
-   }
+   "type" : "Feature"
 }

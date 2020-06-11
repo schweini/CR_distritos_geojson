@@ -1,9 +1,9 @@
 {
    "properties" : {
-      "Canton" : "SANTA CRUZ",
+      "Provincia" : "GUANACASTE",
       "Codigo" : "50302",
-      "Distrito" : "BOLSON",
-      "Provincia" : "GUANACASTE"
+      "Canton" : "SANTA CRUZ",
+      "Distrito" : "BOLSON"
    },
    "geometry" : {
       "coordinates" : [

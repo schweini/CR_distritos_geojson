@@ -1,6 +1,7 @@
 {
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -8146,13 +8147,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
-      "Canton" : "COTO BRUS",
-      "Codigo" : "60802",
       "Provincia" : "PUNTARENAS",
+      "Codigo" : "60802",
+      "Canton" : "COTO BRUS",
       "Distrito" : "SABALITO"
    }
 }

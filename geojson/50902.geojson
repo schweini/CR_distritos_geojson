@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Canton" : "NANDAYURE",
-      "Codigo" : "50902",
       "Provincia" : "GUANACASTE",
+      "Codigo" : "50902",
+      "Canton" : "NANDAYURE",
       "Distrito" : "SANTA RITA"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2706,5 +2705,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

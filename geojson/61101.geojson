@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -5158,9 +5157,10 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
-      "Provincia" : "PUNTARENAS",
       "Distrito" : "JACO",
       "Canton" : "GARABITO",
-      "Codigo" : "61101"
-   }
+      "Codigo" : "61101",
+      "Provincia" : "PUNTARENAS"
+   },
+   "type" : "Feature"
 }

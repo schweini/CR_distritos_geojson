@@ -1,13 +1,11 @@
 {
    "properties" : {
       "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN PEDRO",
       "Codigo" : "11905",
-      "Canton" : "PEREZ ZELEDON"
+      "Canton" : "PEREZ ZELEDON",
+      "Distrito" : "SAN PEDRO"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3073,6 +3071,8 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
 }

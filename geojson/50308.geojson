@@ -1,12 +1,13 @@
 {
-   "properties" : {
-      "Canton" : "SANTA CRUZ",
-      "Codigo" : "50308",
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "CABO VELAS"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "CABO VELAS",
+      "Codigo" : "50308",
+      "Canton" : "SANTA CRUZ"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4162,7 +4163,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

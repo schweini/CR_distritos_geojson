@@ -2062,9 +2062,9 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
-      "Canton" : "PARAISO",
+      "Distrito" : "CACHI",
       "Codigo" : "30204",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "CACHI"
+      "Canton" : "PARAISO",
+      "Provincia" : "CARTAGO"
    }
 }

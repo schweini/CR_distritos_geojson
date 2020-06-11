@@ -7776,11 +7776,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "LIBERIA",
-      "Provincia" : "GUANACASTE",
       "Canton" : "LIBERIA",
-      "Codigo" : "50101"
-   }
+      "Codigo" : "50101",
+      "Distrito" : "LIBERIA",
+      "Provincia" : "GUANACASTE"
+   },
+   "type" : "Feature"
 }

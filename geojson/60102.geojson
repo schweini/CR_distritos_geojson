@@ -1,5 +1,7 @@
 {
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3565,14 +3567,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Provincia" : "PUNTARENAS",
       "Distrito" : "PITAHAYA",
       "Codigo" : "60102",
-      "Canton" : "PUNTARENAS"
+      "Canton" : "PUNTARENAS",
+      "Provincia" : "PUNTARENAS"
    }
 }

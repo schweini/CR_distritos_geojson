@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Codigo" : "61001",
       "Canton" : "CORREDORES",
@@ -6,7 +7,6 @@
       "Provincia" : "PUNTARENAS"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5872,7 +5872,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

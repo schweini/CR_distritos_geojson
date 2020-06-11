@@ -1,0 +1,16 @@
+{
+   "properties" : {
+      "Canton" : "LA CRUZ",
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "510"
+   },
+   "geometry" : {
+      "coordinates" : [
+         [
+            []
+         ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
+}

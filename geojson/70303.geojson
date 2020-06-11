@@ -1,7 +1,8 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "FLORIDA",
       "Provincia" : "LIMON",
+      "Distrito" : "FLORIDA",
       "Canton" : "SIQUIRRES",
       "Codigo" : "70303"
    },
@@ -3861,6 +3862,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature"
+   }
 }

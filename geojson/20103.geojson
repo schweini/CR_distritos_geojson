@@ -1,9 +1,9 @@
 {
    "properties" : {
       "Provincia" : "ALAJUELA",
-      "Distrito" : "CARRIZAL",
       "Codigo" : "20103",
-      "Canton" : "ALAJUELA"
+      "Canton" : "ALAJUELA",
+      "Distrito" : "CARRIZAL"
    },
    "geometry" : {
       "type" : "MultiPolygon",

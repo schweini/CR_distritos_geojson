@@ -1,8 +1,9 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Distrito" : "LA FORTUNA",
       "Codigo" : "50402",
       "Canton" : "BAGACES",
-      "Distrito" : "LA FORTUNA",
       "Provincia" : "GUANACASTE"
    },
    "geometry" : {
@@ -4909,6 +4910,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+   }
 }

@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "SARCHI NORTE",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "21201",
-      "Canton" : "VALVERDE VEGA"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4840,7 +4834,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Codigo" : "21201",
+      "Canton" : "VALVERDE VEGA",
+      "Distrito" : "SARCHI NORTE",
+      "Provincia" : "ALAJUELA"
+   }
 }

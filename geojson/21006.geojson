@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "SAN CARLOS",
+      "Codigo" : "21006",
+      "Distrito" : "PITAL"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4000,11 +4006,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "SAN CARLOS",
-      "Codigo" : "21006",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "PITAL"
-   }
+   "type" : "Feature"
 }

@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "20604",
-      "Canton" : "NARANJO",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "CIRRI SUR"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3660,7 +3653,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "CIRRI SUR",
+      "Codigo" : "20604",
+      "Canton" : "NARANJO",
+      "Provincia" : "ALAJUELA"
    },
    "type" : "Feature"
 }

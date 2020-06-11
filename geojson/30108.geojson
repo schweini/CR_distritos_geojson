@@ -1,11 +1,11 @@
 {
-   "properties" : {
-      "Canton" : "CARTAGO",
-      "Codigo" : "30108",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "TIERRA BLANCA"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "30108",
+      "Canton" : "CARTAGO",
+      "Distrito" : "TIERRA BLANCA",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
       "coordinates" : [
          [

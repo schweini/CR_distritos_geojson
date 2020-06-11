@@ -1,7 +1,6 @@
 {
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -851,12 +850,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
+      "Distrito" : "SAN PEDRO",
       "Codigo" : "40202",
       "Canton" : "BARVA",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SAN PEDRO"
+      "Provincia" : "HEREDIA"
    }
 }

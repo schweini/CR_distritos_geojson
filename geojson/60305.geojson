@@ -1,5 +1,13 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "PILAS",
+      "Codigo" : "60305",
+      "Canton" : "BUENOS AIRES"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2269,14 +2277,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "BUENOS AIRES",
-      "Codigo" : "60305",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "PILAS"
+      ]
    }
 }

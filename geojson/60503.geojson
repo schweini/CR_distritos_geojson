@@ -1,5 +1,7 @@
 {
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -16475,14 +16477,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "PUNTARENAS",
+      "Distrito" : "SIERPE",
       "Codigo" : "60503",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "SIERPE"
+      "Canton" : "PUNTARENAS",
+      "Provincia" : "PUNTARENAS"
    }
 }

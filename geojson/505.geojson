@@ -1,0 +1,16 @@
+{
+   "geometry" : {
+      "coordinates" : [
+         [
+            []
+         ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Canton" : "CARRILLO",
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "505"
+   },
+   "type" : "Feature"
+}

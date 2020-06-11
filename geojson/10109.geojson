@@ -1,12 +1,11 @@
 {
    "properties" : {
-      "Codigo" : "10109",
-      "Canton" : "SAN JOSE",
       "Provincia" : "SAN JOSE",
-      "Distrito" : "PAVAS"
+      "Distrito" : "PAVAS",
+      "Canton" : "SAN JOSE",
+      "Codigo" : "10109"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1220,7 +1219,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "type" : "Feature"
 }

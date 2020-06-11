@@ -1,11 +1,7 @@
 {
-   "properties" : {
-      "Canton" : "PUNTARENAS",
-      "Codigo" : "60106",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "MANZANILLO"
-   },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2917,8 +2913,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Codigo" : "60106",
+      "Canton" : "PUNTARENAS",
+      "Distrito" : "MANZANILLO"
+   }
 }

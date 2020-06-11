@@ -1,12 +1,11 @@
 {
    "properties" : {
-      "Distrito" : "SABANILLAS",
       "Provincia" : "SAN JOSE",
+      "Distrito" : "SABANILLAS",
       "Canton" : "ACOSTA",
       "Codigo" : "11205"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3728,7 +3727,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "type" : "Feature"
 }

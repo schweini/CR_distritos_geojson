@@ -1,6 +1,5 @@
 {
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4850,13 +4849,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Codigo" : "20205",
       "Canton" : "SAN RAMON",
+      "Codigo" : "20205",
       "Distrito" : "PIEDADES SUR",
       "Provincia" : "ALAJUELA"
-   }
+   },
+   "type" : "Feature"
 }

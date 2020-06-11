@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "SAN CARLOS",
-      "Codigo" : "21003",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "BUENAVISTA"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -789,6 +781,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "SAN CARLOS",
+      "Codigo" : "21003",
+      "Distrito" : "BUENAVISTA"
+   },
+   "type" : "Feature"
 }

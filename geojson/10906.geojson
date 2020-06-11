@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "BRASIL",
+      "Codigo" : "10906",
+      "Canton" : "SANTA ANA"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -791,12 +796,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Distrito" : "BRASIL",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "SANTA ANA",
-      "Codigo" : "10906"
+      ],
+      "type" : "MultiPolygon"
    }
 }

@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "10111",
+      "Canton" : "SAN JOSE",
+      "Distrito" : "SAN SEBASTIAN"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1331,12 +1336,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Codigo" : "10111",
-      "Canton" : "SAN JOSE",
-      "Distrito" : "SAN SEBASTIAN",
-      "Provincia" : "SAN JOSE"
+      ],
+      "type" : "MultiPolygon"
    }
 }

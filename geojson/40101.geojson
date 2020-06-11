@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "HEREDIA",
-      "Distrito" : "HEREDIA",
-      "Codigo" : "40101",
-      "Canton" : "HEREDIA"
-   },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -82,5 +75,12 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Distrito" : "HEREDIA",
+      "Canton" : "HEREDIA",
+      "Codigo" : "40101",
+      "Provincia" : "HEREDIA"
+   },
+   "type" : "Feature"
 }

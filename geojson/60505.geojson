@@ -5504,11 +5504,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Provincia" : "PUNTARENAS",
       "Distrito" : "PIEDRAS BLANCAS",
       "Canton" : "OSA",
-      "Codigo" : "60505"
-   }
+      "Codigo" : "60505",
+      "Provincia" : "PUNTARENAS"
+   },
+   "type" : "Feature"
 }

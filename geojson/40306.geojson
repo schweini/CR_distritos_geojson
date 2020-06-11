@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "SANTO DOMINGO",
-      "Codigo" : "40306",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SANTA ROSA"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -817,6 +809,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Canton" : "SANTO DOMINGO",
+      "Codigo" : "40306",
+      "Distrito" : "SANTA ROSA"
+   },
+   "type" : "Feature"
 }

@@ -1,6 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "RINCON DE SABANILLA",
+      "Codigo" : "40902",
+      "Canton" : "SAN PABLO",
+      "Provincia" : "HEREDIA"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -526,13 +532,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "40902",
-      "Canton" : "SAN PABLO",
-      "Distrito" : "RINCON DE SABANILLA",
-      "Provincia" : "HEREDIA"
+      ],
+      "type" : "MultiPolygon"
    }
 }

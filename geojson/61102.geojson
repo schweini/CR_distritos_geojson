@@ -1,11 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "TARCOLES",
-      "Provincia" : "PUNTARENAS",
-      "Canton" : "GARABITO",
-      "Codigo" : "61102"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4595,8 +4590,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Canton" : "GARABITO",
+      "Codigo" : "61102",
+      "Distrito" : "TARCOLES",
+      "Provincia" : "PUNTARENAS"
    },
    "type" : "Feature"
 }

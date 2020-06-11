@@ -1,6 +1,12 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "DESAMPARADOS",
+      "Codigo" : "10301",
+      "Distrito" : "DESAMPARADOS"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1118,13 +1124,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "properties" : {
-      "Canton" : "DESAMPARADOS",
-      "Codigo" : "10301",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "DESAMPARADOS"
-   }
+   "type" : "Feature"
 }

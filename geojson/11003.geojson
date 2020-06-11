@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "SAN ANTONIO",
+      "Codigo" : "11003",
+      "Canton" : "ALAJUELITA",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1127,12 +1132,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Codigo" : "11003",
-      "Canton" : "ALAJUELITA",
-      "Distrito" : "SAN ANTONIO",
-      "Provincia" : "SAN JOSE"
+      ],
+      "type" : "MultiPolygon"
    }
 }

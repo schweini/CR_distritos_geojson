@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Codigo" : "30511",
-      "Canton" : "TURRIALBA",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "LA ISABEL"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1189,6 +1182,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "LA ISABEL",
+      "Codigo" : "30511",
+      "Canton" : "TURRIALBA",
+      "Provincia" : "CARTAGO"
    }
 }

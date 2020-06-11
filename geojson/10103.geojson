@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Distrito" : "HOSPITAL",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "10103",
-      "Canton" : "SAN JOSE"
-   },
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -642,5 +637,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "HOSPITAL",
+      "Codigo" : "10103",
+      "Canton" : "SAN JOSE"
+   }
 }

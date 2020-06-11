@@ -1,9 +1,9 @@
 {
    "properties" : {
-      "Codigo" : "40205",
+      "Distrito" : "SANTA LUCIA",
       "Canton" : "BARVA",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SANTA LUCIA"
+      "Codigo" : "40205",
+      "Provincia" : "HEREDIA"
    },
    "geometry" : {
       "coordinates" : [

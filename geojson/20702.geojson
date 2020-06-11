@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Distrito" : "ZARAGOZA",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "20702",
-      "Canton" : "PALMARES"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2224,7 +2217,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "ZARAGOZA",
+      "Canton" : "PALMARES",
+      "Codigo" : "20702"
    },
    "type" : "Feature"
 }

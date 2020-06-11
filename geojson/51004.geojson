@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Codigo" : "51004",
-      "Canton" : "LA CRUZ",
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "SANTA ELENA"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -19514,7 +19508,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "51004",
+      "Canton" : "LA CRUZ",
+      "Distrito" : "SANTA ELENA"
+   }
 }

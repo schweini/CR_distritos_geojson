@@ -1,12 +1,12 @@
 {
    "properties" : {
-      "Codigo" : "70101",
-      "Canton" : "LIMON",
       "Distrito" : "LIMON",
+      "Canton" : "LIMON",
+      "Codigo" : "70101",
       "Provincia" : "LIMON"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2520,7 +2520,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "type" : "Feature"
 }

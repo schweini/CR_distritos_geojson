@@ -1,12 +1,12 @@
 {
    "properties" : {
-      "Canton" : "BUENOS AIRES",
+      "Provincia" : "PUNTARENAS",
       "Codigo" : "60301",
-      "Distrito" : "BUENOS AIRES",
-      "Provincia" : "PUNTARENAS"
+      "Canton" : "BUENOS AIRES",
+      "Distrito" : "BUENOS AIRES"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6800,7 +6800,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "type" : "Feature"
 }

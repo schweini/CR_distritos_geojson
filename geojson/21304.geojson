@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1840,11 +1841,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "UPALA",
-      "Codigo" : "21304",
+      "Provincia" : "ALAJUELA",
       "Distrito" : "BIJAGUA",
-      "Provincia" : "ALAJUELA"
+      "Codigo" : "21304",
+      "Canton" : "UPALA"
    }
 }

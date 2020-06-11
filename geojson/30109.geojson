@@ -1760,11 +1760,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "CARTAGO",
-      "Codigo" : "30109",
+      "Provincia" : "CARTAGO",
       "Distrito" : "DULCE NOMBRE",
-      "Provincia" : "CARTAGO"
-   }
+      "Canton" : "CARTAGO",
+      "Codigo" : "30109"
+   },
+   "type" : "Feature"
 }

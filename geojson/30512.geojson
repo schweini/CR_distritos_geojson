@@ -1,12 +1,7 @@
 {
-   "properties" : {
-      "Codigo" : "30512",
-      "Canton" : "TURRIALBA",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "CHIRRIPO"
-   },
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -8484,7 +8479,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Codigo" : "30512",
+      "Canton" : "TURRIALBA",
+      "Distrito" : "CHIRRIPO"
    }
 }

@@ -1,12 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "IPIS",
       "Provincia" : "SAN JOSE",
       "Codigo" : "10805",
-      "Canton" : "GOICOECHEA"
+      "Canton" : "GOICOECHEA",
+      "Distrito" : "IPIS"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -988,7 +988,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

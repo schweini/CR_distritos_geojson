@@ -1,12 +1,11 @@
 {
    "properties" : {
-      "Codigo" : "60107",
       "Canton" : "PUNTARENAS",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "GUACIMAL"
+      "Codigo" : "60107",
+      "Distrito" : "GUACIMAL",
+      "Provincia" : "PUNTARENAS"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3624,7 +3623,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "type" : "Feature"
 }

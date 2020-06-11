@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "LA UNION",
-      "Codigo" : "30306",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "DULCE NOMBRE"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -865,6 +859,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Distrito" : "DULCE NOMBRE",
+      "Canton" : "LA UNION",
+      "Codigo" : "30306",
+      "Provincia" : "CARTAGO"
    },
    "type" : "Feature"
 }

@@ -1,11 +1,7 @@
 {
-   "properties" : {
-      "Distrito" : "AGUAS CLARAS",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "21302",
-      "Canton" : "UPALA"
-   },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3891,8 +3887,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "UPALA",
+      "Codigo" : "21302",
+      "Distrito" : "AGUAS CLARAS"
+   }
 }

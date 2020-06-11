@@ -1,6 +1,11 @@
 {
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "TAMARINDO",
+      "Codigo" : "50309",
+      "Canton" : "SANTA CRUZ"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3624,13 +3629,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "TAMARINDO",
-      "Provincia" : "GUANACASTE",
-      "Canton" : "SANTA CRUZ",
-      "Codigo" : "50309"
-   }
+   "type" : "Feature"
 }

@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Distrito" : "COLORADO",
-      "Provincia" : "LIMON",
-      "Canton" : "POCOCI",
-      "Codigo" : "70206"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7429,6 +7421,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "COLORADO",
+      "Canton" : "POCOCI",
+      "Codigo" : "70206",
+      "Provincia" : "LIMON"
+   },
+   "type" : "Feature"
 }

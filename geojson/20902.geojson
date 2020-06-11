@@ -1,8 +1,8 @@
 {
    "properties" : {
+      "Distrito" : "EL MASTATE",
       "Canton" : "OROTINA",
       "Codigo" : "20902",
-      "Distrito" : "EL MASTATE",
       "Provincia" : "ALAJUELA"
    },
    "geometry" : {

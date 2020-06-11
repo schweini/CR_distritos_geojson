@@ -1,11 +1,11 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Codigo" : "60101",
       "Canton" : "PUNTARENAS",
       "Distrito" : "PUNTARENAS",
       "Provincia" : "PUNTARENAS"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [

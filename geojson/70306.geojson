@@ -1,12 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Codigo" : "70306",
       "Canton" : "SIQUIRRES",
       "Distrito" : "LA ALEGRIA",
       "Provincia" : "LIMON"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1928,7 +1929,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

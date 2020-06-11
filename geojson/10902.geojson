@@ -1,5 +1,12 @@
 {
+   "properties" : {
+      "Distrito" : "SALITRAL",
+      "Codigo" : "10902",
+      "Canton" : "SANTA ANA",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1553,14 +1560,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SALITRAL",
-      "Canton" : "SANTA ANA",
-      "Codigo" : "10902"
-   }
+   "type" : "Feature"
 }

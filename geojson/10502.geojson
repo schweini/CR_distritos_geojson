@@ -1,11 +1,12 @@
 {
    "properties" : {
-      "Distrito" : "SAN LORENZO",
       "Provincia" : "SAN JOSE",
       "Codigo" : "10502",
-      "Canton" : "TARRAZU"
+      "Canton" : "TARRAZU",
+      "Distrito" : "SAN LORENZO"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3343,8 +3344,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "type" : "Feature"
 }

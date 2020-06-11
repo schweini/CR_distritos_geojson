@@ -1,12 +1,11 @@
 {
    "properties" : {
+      "Distrito" : "ANGELES",
       "Canton" : "SAN RAMON",
       "Codigo" : "20208",
-      "Distrito" : "ANGELES",
       "Provincia" : "ALAJUELA"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -11988,7 +11987,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "type" : "Feature"
 }

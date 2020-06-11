@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "21402",
-      "Canton" : "LOS CHILES",
-      "Distrito" : "CAÑO NEGRO",
-      "Provincia" : "ALAJUELA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -6715,6 +6709,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "CAÑO NEGRO",
+      "Canton" : "LOS CHILES",
+      "Codigo" : "21402"
    },
    "type" : "Feature"
 }

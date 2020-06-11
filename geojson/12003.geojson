@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "12003",
-      "Canton" : "LEON CORTES",
-      "Distrito" : "LLANO BONITO",
-      "Provincia" : "SAN JOSE"
-   },
    "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
@@ -1870,5 +1864,11 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Distrito" : "LLANO BONITO",
+      "Codigo" : "12003",
+      "Canton" : "LEON CORTES",
+      "Provincia" : "SAN JOSE"
    }
 }

@@ -1,9 +1,10 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN JOSE",
       "Canton" : "GRECIA",
-      "Codigo" : "20303"
+      "Codigo" : "20303",
+      "Distrito" : "SAN JOSE"
    },
    "geometry" : {
       "type" : "MultiPolygon",
@@ -4201,6 +4202,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature"
+   }
 }

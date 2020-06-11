@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "11303",
-      "Canton" : "TIBAS",
-      "Distrito" : "ANSELMO LLORENTE",
-      "Provincia" : "SAN JOSE"
-   },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -586,5 +581,10 @@
          ]
       ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "ANSELMO LLORENTE",
+      "Codigo" : "11303",
+      "Canton" : "TIBAS",
+      "Provincia" : "SAN JOSE"
+   }
 }

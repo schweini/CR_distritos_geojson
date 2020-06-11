@@ -1428,11 +1428,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Codigo" : "20705",
-      "Canton" : "PALMARES",
       "Provincia" : "ALAJUELA",
+      "Canton" : "PALMARES",
+      "Codigo" : "20705",
       "Distrito" : "CANDELARIA"
-   }
+   },
+   "type" : "Feature"
 }

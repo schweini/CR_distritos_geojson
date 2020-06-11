@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "20305",
+      "Canton" : "GRECIA",
+      "Distrito" : "TACARES"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4596,11 +4602,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Distrito" : "TACARES",
-      "Provincia" : "ALAJUELA",
-      "Canton" : "GRECIA",
-      "Codigo" : "20305"
    }
 }

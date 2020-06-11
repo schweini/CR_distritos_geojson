@@ -3964,11 +3964,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Provincia" : "GUANACASTE",
-      "Distrito" : "SAN PABLO",
+      "Codigo" : "50904",
       "Canton" : "NANDAYURE",
-      "Codigo" : "50904"
-   }
+      "Distrito" : "SAN PABLO"
+   },
+   "type" : "Feature"
 }

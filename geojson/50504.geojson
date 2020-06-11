@@ -1,11 +1,10 @@
 {
    "properties" : {
+      "Distrito" : "BELEN",
       "Canton" : "CARRILLO",
       "Codigo" : "50504",
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "BELEN"
+      "Provincia" : "GUANACASTE"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4978,5 +4977,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

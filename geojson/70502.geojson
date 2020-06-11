@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "MATINA",
-      "Codigo" : "70502",
-      "Distrito" : "BATAN",
-      "Provincia" : "LIMON"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6616,7 +6609,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "LIMON",
+      "Distrito" : "BATAN",
+      "Codigo" : "70502",
+      "Canton" : "MATINA"
    },
    "type" : "Feature"
 }

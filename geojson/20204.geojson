@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "SAN RAMON",
-      "Codigo" : "20204",
-      "Distrito" : "PIEDADES NORTE",
-      "Provincia" : "ALAJUELA"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5152,7 +5145,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "SAN RAMON",
+      "Codigo" : "20204",
+      "Distrito" : "PIEDADES NORTE"
    },
    "type" : "Feature"
 }

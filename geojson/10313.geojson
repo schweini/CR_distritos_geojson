@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "LOS GUIDO",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "DESAMPARADOS",
-      "Codigo" : "10313"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -568,7 +562,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Codigo" : "10313",
+      "Canton" : "DESAMPARADOS",
+      "Distrito" : "LOS GUIDO",
+      "Provincia" : "SAN JOSE"
+   }
 }

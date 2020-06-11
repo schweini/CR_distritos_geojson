@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "30308",
-      "Canton" : "LA UNION",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "RIO AZUL"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1417,6 +1411,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Distrito" : "RIO AZUL",
+      "Canton" : "LA UNION",
+      "Codigo" : "30308",
+      "Provincia" : "CARTAGO"
    },
    "type" : "Feature"
 }

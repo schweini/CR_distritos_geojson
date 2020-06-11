@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "ESPIRITU SANTO",
-      "Codigo" : "60201",
-      "Canton" : "ESPARZA"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1913,6 +1905,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "ESPIRITU SANTO",
+      "Canton" : "ESPARZA",
+      "Codigo" : "60201",
+      "Provincia" : "PUNTARENAS"
+   },
+   "type" : "Feature"
 }

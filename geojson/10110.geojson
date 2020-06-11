@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "SAN JOSE",
-      "Codigo" : "10110",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "HATILLO"
-   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1169,6 +1163,12 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "SAN JOSE",
+      "Codigo" : "10110",
+      "Distrito" : "HATILLO"
    },
    "type" : "Feature"
 }

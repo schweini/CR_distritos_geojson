@@ -1,7 +1,6 @@
 {
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3823,12 +3822,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
       "Codigo" : "60501",
       "Canton" : "OSA",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "PUERTO CORTES"
+      "Distrito" : "PUERTO CORTES",
+      "Provincia" : "PUNTARENAS"
    }
 }

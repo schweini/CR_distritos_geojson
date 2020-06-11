@@ -1,13 +1,11 @@
 {
    "properties" : {
-      "Canton" : "NICOYA",
-      "Codigo" : "50202",
       "Provincia" : "GUANACASTE",
+      "Codigo" : "50202",
+      "Canton" : "NICOYA",
       "Distrito" : "MANSION"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5351,6 +5349,8 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
 }

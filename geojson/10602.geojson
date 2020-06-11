@@ -1,6 +1,11 @@
 {
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "TARBACA",
+      "Canton" : "ASERRI",
+      "Codigo" : "10602"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1302,13 +1307,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "TARBACA",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "ASERRI",
-      "Codigo" : "10602"
-   }
+   "type" : "Feature"
 }

@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "20114",
-      "Canton" : "ALAJUELA",
-      "Distrito" : "SARAPIQUI",
-      "Provincia" : "ALAJUELA"
-   },
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -2582,5 +2577,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "SARAPIQUI",
+      "Codigo" : "20114",
+      "Canton" : "ALAJUELA"
+   }
 }

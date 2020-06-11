@@ -1,9 +1,9 @@
 {
    "properties" : {
-      "Codigo" : "70203",
-      "Canton" : "POCOCI",
       "Provincia" : "LIMON",
-      "Distrito" : "RITA"
+      "Distrito" : "RITA",
+      "Canton" : "POCOCI",
+      "Codigo" : "70203"
    },
    "geometry" : {
       "coordinates" : [

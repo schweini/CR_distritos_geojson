@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "SANTIAGO",
+      "Canton" : "PALMARES",
+      "Codigo" : "20704",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1570,13 +1577,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Canton" : "PALMARES",
-      "Codigo" : "20704",
-      "Distrito" : "SANTIAGO",
-      "Provincia" : "ALAJUELA"
+      ]
    }
 }

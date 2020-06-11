@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -26096,11 +26097,10 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "ISLA DEL COCO",
-      "Provincia" : "PUNTARENAS",
       "Codigo" : "60110",
-      "Canton" : "PUNTARENAS"
+      "Canton" : "PUNTARENAS",
+      "Distrito" : "ISLA DEL COCO",
+      "Provincia" : "PUNTARENAS"
    }
 }

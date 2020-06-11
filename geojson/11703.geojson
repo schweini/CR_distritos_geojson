@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -3608,11 +3609,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Provincia" : "SAN JOSE",
-      "Distrito" : "COPEY",
       "Codigo" : "11703",
-      "Canton" : "DOTA"
+      "Canton" : "DOTA",
+      "Distrito" : "COPEY"
    }
 }

@@ -6150,9 +6150,9 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
-      "Provincia" : "ALAJUELA",
       "Distrito" : "EL AMPARO",
       "Codigo" : "21403",
-      "Canton" : "LOS CHILES"
+      "Canton" : "LOS CHILES",
+      "Provincia" : "ALAJUELA"
    }
 }

@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "LAS HORQUETAS",
+      "Codigo" : "41003",
+      "Canton" : "SARAPIQUI",
+      "Provincia" : "HEREDIA"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4955,12 +4962,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "LAS HORQUETAS",
-      "Provincia" : "HEREDIA",
-      "Codigo" : "41003",
-      "Canton" : "SARAPIQUI"
    }
 }

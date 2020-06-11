@@ -1,9 +1,10 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "CUREÑA",
       "Provincia" : "HEREDIA",
       "Canton" : "SARAPIQUI",
-      "Codigo" : "41005"
+      "Codigo" : "41005",
+      "Distrito" : "CUREÑA"
    },
    "geometry" : {
       "coordinates" : [
@@ -4053,6 +4054,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+   }
 }

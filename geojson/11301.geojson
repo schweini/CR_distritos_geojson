@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Codigo" : "11301",
-      "Canton" : "TIBAS",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN JUAN"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1141,6 +1134,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "11301",
+      "Canton" : "TIBAS",
+      "Distrito" : "SAN JUAN"
    }
 }

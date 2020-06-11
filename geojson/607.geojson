@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Codigo" : "607",
+      "Canton" : "GOLFITO"
+   },
+   "geometry" : {
+      "coordinates" : [
+         [
+            []
+         ]
+      ],
+      "type" : "MultiPolygon"
+   }
+}

@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "DESMONTE",
-      "Provincia" : "ALAJUELA",
       "Canton" : "SAN MATEO",
-      "Codigo" : "20402"
+      "Codigo" : "20402",
+      "Distrito" : "DESMONTE",
+      "Provincia" : "ALAJUELA"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1375,8 +1377,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

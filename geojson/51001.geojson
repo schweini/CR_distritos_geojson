@@ -1,5 +1,13 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Canton" : "LA CRUZ",
+      "Codigo" : "51001",
+      "Distrito" : "LA CRUZ"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6947,14 +6955,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "LA CRUZ",
-      "Canton" : "LA CRUZ",
-      "Codigo" : "51001"
+      ]
    }
 }

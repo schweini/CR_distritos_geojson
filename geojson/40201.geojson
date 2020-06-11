@@ -1,5 +1,6 @@
 {
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -349,14 +350,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "BARVA",
-      "Provincia" : "HEREDIA",
       "Canton" : "BARVA",
-      "Codigo" : "40201"
-   }
+      "Codigo" : "40201",
+      "Distrito" : "BARVA",
+      "Provincia" : "HEREDIA"
+   },
+   "type" : "Feature"
 }

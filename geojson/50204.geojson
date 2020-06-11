@@ -1,5 +1,7 @@
 {
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2473,14 +2475,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Codigo" : "50204",
-      "Canton" : "NICOYA",
       "Distrito" : "QUEBRADA HONDA",
+      "Canton" : "NICOYA",
+      "Codigo" : "50204",
       "Provincia" : "GUANACASTE"
    }
 }

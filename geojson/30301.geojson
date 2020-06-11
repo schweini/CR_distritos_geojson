@@ -418,8 +418,8 @@
       ]
    },
    "properties" : {
-      "Distrito" : "TRES RIOS",
       "Provincia" : "CARTAGO",
+      "Distrito" : "TRES RIOS",
       "Codigo" : "30301",
       "Canton" : "LA UNION"
    }

@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Codigo" : "21404",
-      "Canton" : "LOS CHILES",
-      "Distrito" : "SAN JORGE",
-      "Provincia" : "ALAJUELA"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5993,6 +5986,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "21404",
+      "Canton" : "LOS CHILES",
+      "Distrito" : "SAN JORGE"
    }
 }

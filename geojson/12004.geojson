@@ -1,9 +1,10 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN ISIDRO",
+      "Codigo" : "12004",
       "Canton" : "LEON CORTES",
-      "Codigo" : "12004"
+      "Distrito" : "SAN ISIDRO"
    },
    "geometry" : {
       "coordinates" : [
@@ -1301,6 +1302,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+   }
 }

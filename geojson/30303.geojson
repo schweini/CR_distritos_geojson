@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "LA UNION",
-      "Codigo" : "30303",
-      "Distrito" : "SAN JUAN",
-      "Provincia" : "CARTAGO"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -728,7 +721,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Canton" : "LA UNION",
+      "Codigo" : "30303",
+      "Distrito" : "SAN JUAN"
    },
    "type" : "Feature"
 }

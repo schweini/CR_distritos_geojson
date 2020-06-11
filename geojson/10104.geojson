@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "SAN JOSE",
+      "Codigo" : "10104",
+      "Distrito" : "CATEDRAL"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -443,12 +447,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "CATEDRAL",
-      "Codigo" : "10104",
-      "Canton" : "SAN JOSE"
-   }
+   "type" : "Feature"
 }

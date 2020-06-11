@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Canton" : "DOTA",
+      "Codigo" : "11702",
+      "Distrito" : "JARDIN",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1180,11 +1186,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "11702",
-      "Canton" : "DOTA",
-      "Distrito" : "JARDIN",
-      "Provincia" : "SAN JOSE"
-   }
+   "type" : "Feature"
 }

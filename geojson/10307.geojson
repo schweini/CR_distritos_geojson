@@ -1,11 +1,12 @@
 {
    "properties" : {
-      "Canton" : "DESAMPARADOS",
-      "Codigo" : "10307",
       "Provincia" : "SAN JOSE",
-      "Distrito" : "PATARRA"
+      "Distrito" : "PATARRA",
+      "Codigo" : "10307",
+      "Canton" : "DESAMPARADOS"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1367,8 +1368,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "type" : "Feature"
 }

@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "SAN JERONIMO",
+      "Canton" : "NARANJO",
+      "Codigo" : "20605",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3833,10 +3838,5 @@
          ]
       ]
    },
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN JERONIMO",
-      "Codigo" : "20605",
-      "Canton" : "NARANJO"
-   }
+   "type" : "Feature"
 }

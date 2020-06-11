@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "SAN RAFAEL",
+      "Canton" : "SAN RAMON",
+      "Codigo" : "20206"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2727,12 +2734,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN RAFAEL",
-      "Canton" : "SAN RAMON",
-      "Codigo" : "20206"
    }
 }

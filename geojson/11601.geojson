@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1426,9 +1425,10 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
-      "Distrito" : "SAN PABLO",
       "Provincia" : "SAN JOSE",
-      "Codigo" : "11601",
-      "Canton" : "TURRUBARES"
-   }
+      "Distrito" : "SAN PABLO",
+      "Canton" : "TURRUBARES",
+      "Codigo" : "11601"
+   },
+   "type" : "Feature"
 }

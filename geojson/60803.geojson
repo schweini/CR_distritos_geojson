@@ -1,6 +1,7 @@
 {
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2450,13 +2451,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "AGUABUENA",
       "Codigo" : "60803",
-      "Canton" : "COTO BRUS"
+      "Canton" : "COTO BRUS",
+      "Distrito" : "AGUABUENA",
+      "Provincia" : "PUNTARENAS"
    }
 }

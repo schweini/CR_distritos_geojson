@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "VENADO",
-      "Canton" : "SAN CARLOS",
-      "Codigo" : "21010"
-   },
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -3694,5 +3689,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "SAN CARLOS",
+      "Codigo" : "21010",
+      "Distrito" : "VENADO"
+   }
 }

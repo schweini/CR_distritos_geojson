@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "GOICOECHEA",
+      "Codigo" : "10804",
+      "Distrito" : "MATA DE PLATANO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2908,11 +2914,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "MATA DE PLATANO",
-      "Canton" : "GOICOECHEA",
-      "Codigo" : "10804"
    }
 }

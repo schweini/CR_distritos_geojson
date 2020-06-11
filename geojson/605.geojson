@@ -1,0 +1,16 @@
+{
+   "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [
+         [
+            []
+         ]
+      ]
+   },
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Codigo" : "605",
+      "Canton" : "OSA"
+   },
+   "type" : "Feature"
+}

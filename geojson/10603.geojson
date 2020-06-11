@@ -1,6 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "VUELTA DE JORCO",
+      "Codigo" : "10603",
+      "Canton" : "ASERRI",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1614,13 +1620,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "VUELTA DE JORCO",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "ASERRI",
-      "Codigo" : "10603"
+      ],
+      "type" : "MultiPolygon"
    }
 }

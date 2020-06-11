@@ -1,11 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "AGUACALIENTE O SAN FRANCISCO",
-      "Provincia" : "CARTAGO",
-      "Canton" : "CARTAGO",
-      "Codigo" : "30105"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1971,8 +1966,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Codigo" : "30105",
+      "Canton" : "CARTAGO",
+      "Distrito" : "AGUACALIENTE O SAN FRANCISCO",
+      "Provincia" : "CARTAGO"
    },
    "type" : "Feature"
 }

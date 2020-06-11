@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Codigo" : "30101",
+      "Canton" : "CARTAGO",
+      "Distrito" : "ORIENTAL"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -509,10 +514,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "ORIENTAL",
-      "Canton" : "CARTAGO",
-      "Codigo" : "30101"
-   }
+   "type" : "Feature"
 }

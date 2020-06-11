@@ -7890,9 +7890,9 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
-      "Codigo" : "60703",
-      "Canton" : "GOLFITO",
+      "Provincia" : "PUNTARENAS",
       "Distrito" : "GUAYCARA",
-      "Provincia" : "PUNTARENAS"
+      "Canton" : "GOLFITO",
+      "Codigo" : "60703"
    }
 }

@@ -1,9 +1,9 @@
 {
    "properties" : {
-      "Codigo" : "70605",
       "Canton" : "GUACIMO",
-      "Provincia" : "LIMON",
-      "Distrito" : "DUACARI"
+      "Codigo" : "70605",
+      "Distrito" : "DUACARI",
+      "Provincia" : "LIMON"
    },
    "geometry" : {
       "type" : "MultiPolygon",

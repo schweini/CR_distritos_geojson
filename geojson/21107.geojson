@@ -1,12 +1,13 @@
 {
-   "properties" : {
-      "Canton" : "ZARCERO",
-      "Codigo" : "21107",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "BRISAS"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "BRISAS",
+      "Canton" : "ZARCERO",
+      "Codigo" : "21107"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2660,7 +2661,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

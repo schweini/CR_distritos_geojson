@@ -1,6 +1,5 @@
 {
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -398,13 +397,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Provincia" : "CARTAGO",
       "Distrito" : "PERALTA",
       "Canton" : "TURRIALBA",
       "Codigo" : "30503"
-   }
+   },
+   "type" : "Feature"
 }

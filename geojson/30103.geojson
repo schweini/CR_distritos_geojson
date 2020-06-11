@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Distrito" : "CARMEN",
+      "Canton" : "CARTAGO",
+      "Codigo" : "30103",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -628,11 +634,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "CARTAGO",
-      "Codigo" : "30103",
-      "Distrito" : "CARMEN",
-      "Provincia" : "CARTAGO"
-   }
+   "type" : "Feature"
 }

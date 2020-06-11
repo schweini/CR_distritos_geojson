@@ -1,5 +1,7 @@
 {
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -597,10 +599,8 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
       "Provincia" : "HEREDIA",
       "Distrito" : "SAN JOAQUIN",

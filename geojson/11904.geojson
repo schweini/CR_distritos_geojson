@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "PEREZ ZELEDON",
-      "Codigo" : "11904",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "RIVAS"
-   },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4218,5 +4213,10 @@
          ]
       ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "RIVAS",
+      "Codigo" : "11904",
+      "Canton" : "PEREZ ZELEDON",
+      "Provincia" : "SAN JOSE"
+   }
 }

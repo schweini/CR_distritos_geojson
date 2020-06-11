@@ -1,11 +1,7 @@
 {
-   "properties" : {
-      "Codigo" : "11304",
-      "Canton" : "TIBAS",
-      "Distrito" : "LEON XIII",
-      "Provincia" : "SAN JOSE"
-   },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -331,8 +327,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "LEON XIII",
+      "Codigo" : "11304",
+      "Canton" : "TIBAS",
+      "Provincia" : "SAN JOSE"
+   }
 }

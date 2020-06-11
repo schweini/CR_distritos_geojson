@@ -1,6 +1,5 @@
 {
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -966,13 +965,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Distrito" : "ATENAS",
-      "Provincia" : "ALAJUELA",
+      "Codigo" : "20501",
       "Canton" : "ATENAS",
-      "Codigo" : "20501"
-   }
+      "Provincia" : "ALAJUELA"
+   },
+   "type" : "Feature"
 }

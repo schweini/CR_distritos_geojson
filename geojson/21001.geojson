@@ -2,12 +2,10 @@
    "properties" : {
       "Codigo" : "21001",
       "Canton" : "SAN CARLOS",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "QUESADA"
+      "Distrito" : "QUESADA",
+      "Provincia" : "ALAJUELA"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3569,6 +3567,8 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
 }

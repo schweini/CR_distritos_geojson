@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Distrito" : "TAPESCO",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "21103",
-      "Canton" : "ZARCERO"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1688,7 +1681,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Codigo" : "21103",
+      "Canton" : "ZARCERO",
+      "Distrito" : "TAPESCO",
+      "Provincia" : "ALAJUELA"
    },
    "type" : "Feature"
 }

@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Distrito" : "LLANOS DE SANTA LUCIA",
+      "Canton" : "PARAISO",
+      "Codigo" : "30205"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -890,13 +897,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Codigo" : "30205",
-      "Canton" : "PARAISO",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "LLANOS DE SANTA LUCIA"
+      ]
    }
 }

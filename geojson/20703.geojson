@@ -1,12 +1,11 @@
 {
    "properties" : {
-      "Distrito" : "BUENOS AIRES",
-      "Provincia" : "ALAJUELA",
+      "Canton" : "PALMARES",
       "Codigo" : "20703",
-      "Canton" : "PALMARES"
+      "Distrito" : "BUENOS AIRES",
+      "Provincia" : "ALAJUELA"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1360,7 +1359,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "type" : "Feature"
 }

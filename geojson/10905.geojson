@@ -1,11 +1,12 @@
 {
    "properties" : {
-      "Codigo" : "10905",
+      "Provincia" : "SAN JOSE",
       "Canton" : "SANTA ANA",
-      "Distrito" : "PIEDADES",
-      "Provincia" : "SAN JOSE"
+      "Codigo" : "10905",
+      "Distrito" : "PIEDADES"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1407,8 +1408,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "type" : "Feature"
 }

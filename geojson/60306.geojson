@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Codigo" : "60306",
+      "Canton" : "BUENOS AIRES",
+      "Distrito" : "COLINAS"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3432,11 +3438,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Codigo" : "60306",
-      "Canton" : "BUENOS AIRES",
-      "Distrito" : "COLINAS",
-      "Provincia" : "PUNTARENAS"
    }
 }

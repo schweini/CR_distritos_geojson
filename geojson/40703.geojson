@@ -524,11 +524,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "LA ASUNCION",
       "Provincia" : "HEREDIA",
       "Canton" : "BELEN",
-      "Codigo" : "40703"
-   }
+      "Codigo" : "40703",
+      "Distrito" : "LA ASUNCION"
+   },
+   "type" : "Feature"
 }

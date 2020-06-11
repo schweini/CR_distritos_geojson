@@ -1,5 +1,6 @@
 {
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -433,14 +434,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "FLORES",
-      "Codigo" : "40802",
       "Provincia" : "HEREDIA",
-      "Distrito" : "BARRANTES"
-   }
+      "Distrito" : "BARRANTES",
+      "Canton" : "FLORES",
+      "Codigo" : "40802"
+   },
+   "type" : "Feature"
 }

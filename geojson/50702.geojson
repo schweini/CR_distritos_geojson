@@ -1,5 +1,12 @@
 {
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "SIERRA",
+      "Canton" : "ABANGARES",
+      "Codigo" : "50702"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2633,14 +2640,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "50702",
-      "Canton" : "ABANGARES",
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "SIERRA"
-   }
+   "type" : "Feature"
 }

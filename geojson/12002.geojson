@@ -1,8 +1,9 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Provincia" : "SAN JOSE",
       "Codigo" : "12002",
       "Canton" : "LEON CORTES",
-      "Provincia" : "SAN JOSE",
       "Distrito" : "SAN ANDRES"
    },
    "geometry" : {
@@ -957,6 +958,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature"
+   }
 }

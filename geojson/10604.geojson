@@ -1236,11 +1236,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "SAN GABRIEL",
       "Provincia" : "SAN JOSE",
+      "Distrito" : "SAN GABRIEL",
       "Canton" : "ASERRI",
       "Codigo" : "10604"
-   }
+   },
+   "type" : "Feature"
 }

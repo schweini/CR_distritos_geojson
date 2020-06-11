@@ -1,11 +1,7 @@
 {
-   "properties" : {
-      "Canton" : "PURISCAL",
-      "Codigo" : "10403",
-      "Distrito" : "BARBACOAS",
-      "Provincia" : "SAN JOSE"
-   },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1247,8 +1243,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Codigo" : "10403",
+      "Canton" : "PURISCAL",
+      "Distrito" : "BARBACOAS",
+      "Provincia" : "SAN JOSE"
+   }
 }

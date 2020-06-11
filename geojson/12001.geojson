@@ -1,12 +1,13 @@
 {
-   "properties" : {
-      "Distrito" : "SAN PABLO",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "LEON CORTES",
-      "Codigo" : "12001"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "12001",
+      "Canton" : "LEON CORTES",
+      "Distrito" : "SAN PABLO",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1112,7 +1113,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

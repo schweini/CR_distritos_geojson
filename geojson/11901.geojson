@@ -1,11 +1,11 @@
 {
-   "properties" : {
-      "Distrito" : "SAN ISIDRO DEL GENERAL",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "PEREZ ZELEDON",
-      "Codigo" : "11901"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "11901",
+      "Canton" : "PEREZ ZELEDON",
+      "Distrito" : "SAN ISIDRO DEL GENERAL",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
       "coordinates" : [
          [

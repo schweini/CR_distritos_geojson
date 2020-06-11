@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "SANTO DOMINGO",
-      "Codigo" : "40308",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "PARA"
-   },
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1106,5 +1101,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Distrito" : "PARA",
+      "Canton" : "SANTO DOMINGO",
+      "Codigo" : "40308"
+   }
 }

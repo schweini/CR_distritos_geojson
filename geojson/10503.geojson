@@ -1,6 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "10503",
+      "Canton" : "TARRAZU",
+      "Distrito" : "SAN CARLOS"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2710,13 +2716,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN CARLOS",
-      "Canton" : "TARRAZU",
-      "Codigo" : "10503"
+      ],
+      "type" : "MultiPolygon"
    }
 }

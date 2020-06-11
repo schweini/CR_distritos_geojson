@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "20209",
+      "Canton" : "SAN RAMON",
+      "Distrito" : "ALFARO"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1527,12 +1532,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Distrito" : "ALFARO",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "20209",
-      "Canton" : "SAN RAMON"
+      ],
+      "type" : "MultiPolygon"
    }
 }

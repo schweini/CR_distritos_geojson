@@ -1,5 +1,13 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "SAN JUAN",
+      "Canton" : "POAS",
+      "Codigo" : "20802"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2673,14 +2681,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN JUAN",
-      "Canton" : "POAS",
-      "Codigo" : "20802"
+      ]
    }
 }

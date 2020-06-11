@@ -1,6 +1,7 @@
 {
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2226,13 +2227,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
-      "Canton" : "ATENAS",
-      "Codigo" : "20507",
       "Distrito" : "SANTA EULALIA",
+      "Codigo" : "20507",
+      "Canton" : "ATENAS",
       "Provincia" : "ALAJUELA"
    }
 }

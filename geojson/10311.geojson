@@ -972,11 +972,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
+      "Provincia" : "SAN JOSE",
       "Codigo" : "10311",
       "Canton" : "DESAMPARADOS",
-      "Provincia" : "SAN JOSE",
       "Distrito" : "SAN RAFAEL ABAJO"
-   }
+   },
+   "type" : "Feature"
 }

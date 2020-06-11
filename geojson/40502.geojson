@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Distrito" : "SAN JOSECITO",
-      "Provincia" : "HEREDIA",
-      "Canton" : "SAN RAFAEL",
-      "Codigo" : "40502"
-   },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -238,5 +231,12 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Distrito" : "SAN JOSECITO",
+      "Codigo" : "40502",
+      "Canton" : "SAN RAFAEL",
+      "Provincia" : "HEREDIA"
+   },
+   "type" : "Feature"
 }

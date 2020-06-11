@@ -1,12 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "YOLILLAL",
       "Provincia" : "ALAJUELA",
       "Codigo" : "21307",
-      "Canton" : "UPALA"
+      "Canton" : "UPALA",
+      "Distrito" : "YOLILLAL"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6136,7 +6136,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

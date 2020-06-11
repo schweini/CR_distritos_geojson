@@ -1,9 +1,9 @@
 {
    "properties" : {
-      "Codigo" : "51102",
-      "Canton" : "HOJANCHA",
+      "Provincia" : "GUANACASTE",
       "Distrito" : "MONTE ROMO",
-      "Provincia" : "GUANACASTE"
+      "Codigo" : "51102",
+      "Canton" : "HOJANCHA"
    },
    "geometry" : {
       "coordinates" : [

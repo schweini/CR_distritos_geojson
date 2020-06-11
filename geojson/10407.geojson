@@ -1,11 +1,12 @@
 {
    "properties" : {
-      "Distrito" : "DESAMPARADITOS",
       "Provincia" : "SAN JOSE",
+      "Canton" : "PURISCAL",
       "Codigo" : "10407",
-      "Canton" : "PURISCAL"
+      "Distrito" : "DESAMPARADITOS"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -867,8 +868,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "type" : "Feature"
 }

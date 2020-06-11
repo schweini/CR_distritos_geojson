@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Canton" : "BUENOS AIRES",
-      "Codigo" : "60308",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "BIOLLEY"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3448,7 +3442,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "BIOLLEY",
+      "Canton" : "BUENOS AIRES",
+      "Codigo" : "60308",
+      "Provincia" : "PUNTARENAS"
+   }
 }

@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Canton" : "CURRIDABAT",
-      "Codigo" : "11802",
-      "Distrito" : "GRANADILLA",
-      "Provincia" : "SAN JOSE"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -597,6 +590,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "11802",
+      "Canton" : "CURRIDABAT",
+      "Distrito" : "GRANADILLA"
    }
 }

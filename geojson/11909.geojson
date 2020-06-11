@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "PEREZ ZELEDON",
-      "Codigo" : "11909",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "BARU"
-   },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3482,5 +3475,12 @@
             ]
          ]
       ]
-   }
+   },
+   "properties" : {
+      "Distrito" : "BARU",
+      "Codigo" : "11909",
+      "Canton" : "PEREZ ZELEDON",
+      "Provincia" : "SAN JOSE"
+   },
+   "type" : "Feature"
 }

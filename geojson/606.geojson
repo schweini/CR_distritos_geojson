@@ -1,0 +1,16 @@
+{
+   "properties" : {
+      "Canton" : "AGUIRRE",
+      "Provincia" : "PUNTARENAS",
+      "Codigo" : "606"
+   },
+   "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [
+         [
+            []
+         ]
+      ]
+   },
+   "type" : "Feature"
+}

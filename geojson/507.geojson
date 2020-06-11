@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [
+         [
+            []
+         ]
+      ]
+   },
+   "properties" : {
+      "Canton" : "ABANGARES",
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "507"
+   }
+}

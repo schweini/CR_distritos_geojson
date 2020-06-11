@@ -5,8 +5,8 @@
       "Codigo" : "60302",
       "Canton" : "BUENOS AIRES"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4576,7 +4576,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "type" : "Feature"
 }

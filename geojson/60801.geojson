@@ -1,5 +1,6 @@
 {
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7621,14 +7622,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Codigo" : "60801",
-      "Canton" : "COTO BRUS",
       "Provincia" : "PUNTARENAS",
-      "Distrito" : "SAN VITO"
-   }
+      "Distrito" : "SAN VITO",
+      "Canton" : "COTO BRUS",
+      "Codigo" : "60801"
+   },
+   "type" : "Feature"
 }

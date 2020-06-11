@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "properties" : {
+      "Canton" : "PUNTARENAS",
+      "Codigo" : "601",
+      "Provincia" : "PUNTARENAS"
+   },
+   "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [
+         [
+            []
+         ]
+      ]
+   }
+}

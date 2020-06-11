@@ -1,12 +1,7 @@
 {
-   "properties" : {
-      "Canton" : "ESPARZA",
-      "Codigo" : "60204",
-      "Distrito" : "SAN RAFAEL",
-      "Provincia" : "PUNTARENAS"
-   },
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3184,7 +3179,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Codigo" : "60204",
+      "Canton" : "ESPARZA",
+      "Distrito" : "SAN RAFAEL",
+      "Provincia" : "PUNTARENAS"
    }
 }

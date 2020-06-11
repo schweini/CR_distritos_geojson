@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN FRANCISCO",
-      "Canton" : "GOICOECHEA",
-      "Codigo" : "10802"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -529,6 +522,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "SAN FRANCISCO",
+      "Codigo" : "10802",
+      "Canton" : "GOICOECHEA",
+      "Provincia" : "SAN JOSE"
    }
 }

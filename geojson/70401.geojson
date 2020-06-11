@@ -1,11 +1,11 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Provincia" : "LIMON",
       "Codigo" : "70401",
       "Canton" : "TALAMANCA",
-      "Distrito" : "BRATSI",
-      "Provincia" : "LIMON"
+      "Distrito" : "BRATSI"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [

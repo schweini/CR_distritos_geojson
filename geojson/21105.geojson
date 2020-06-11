@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Codigo" : "21105",
-      "Canton" : "ZARCERO",
-      "Distrito" : "PALMIRA",
-      "Provincia" : "ALAJUELA"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2232,7 +2226,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Codigo" : "21105",
+      "Canton" : "ZARCERO",
+      "Distrito" : "PALMIRA",
+      "Provincia" : "ALAJUELA"
+   }
 }

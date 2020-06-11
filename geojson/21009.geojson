@@ -1,6 +1,6 @@
 {
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5306,13 +5306,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
-      "Canton" : "SAN CARLOS",
-      "Codigo" : "21009",
       "Provincia" : "ALAJUELA",
+      "Codigo" : "21009",
+      "Canton" : "SAN CARLOS",
       "Distrito" : "LA PALMERA"
-   }
+   },
+   "type" : "Feature"
 }

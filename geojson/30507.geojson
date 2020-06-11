@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "TUIS",
-      "Codigo" : "30507",
-      "Canton" : "TURRIALBA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1613,6 +1607,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Distrito" : "TUIS",
+      "Canton" : "TURRIALBA",
+      "Codigo" : "30507"
    },
    "type" : "Feature"
 }

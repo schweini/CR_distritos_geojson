@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "MAYORGA",
+      "Codigo" : "50103",
+      "Canton" : "LIBERIA"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -5673,10 +5678,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Canton" : "LIBERIA",
-      "Codigo" : "50103",
-      "Distrito" : "MAYORGA",
-      "Provincia" : "GUANACASTE"
-   }
+   "type" : "Feature"
 }

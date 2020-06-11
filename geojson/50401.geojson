@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "BAGACES",
+      "Canton" : "BAGACES",
+      "Codigo" : "50401",
+      "Provincia" : "GUANACASTE"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -8701,10 +8706,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "BAGACES",
-      "Canton" : "BAGACES",
-      "Codigo" : "50401"
-   }
+   "type" : "Feature"
 }

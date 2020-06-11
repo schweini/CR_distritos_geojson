@@ -1,11 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "SAN JUAN DE MATA",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "11603",
-      "Canton" : "TURRUBARES"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2435,8 +2430,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "TURRUBARES",
+      "Codigo" : "11603",
+      "Distrito" : "SAN JUAN DE MATA"
    },
    "type" : "Feature"
 }

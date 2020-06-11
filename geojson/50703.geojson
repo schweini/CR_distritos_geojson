@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "SAN JUAN",
+      "Canton" : "ABANGARES",
+      "Codigo" : "50703"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1904,11 +1910,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "ABANGARES",
-      "Codigo" : "50703",
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "SAN JUAN"
-   }
+   "type" : "Feature"
 }

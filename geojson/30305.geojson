@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Distrito" : "CONCEPCION",
+      "Codigo" : "30305",
+      "Canton" : "LA UNION"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -791,12 +798,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "CONCEPCION",
-      "Codigo" : "30305",
-      "Canton" : "LA UNION"
    }
 }

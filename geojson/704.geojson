@@ -1,0 +1,16 @@
+{
+   "properties" : {
+      "Canton" : "TALAMANCA",
+      "Provincia" : "LIMON",
+      "Codigo" : "704"
+   },
+   "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [
+         [
+            []
+         ]
+      ]
+   },
+   "type" : "Feature"
+}

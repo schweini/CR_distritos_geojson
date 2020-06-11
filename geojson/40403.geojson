@@ -1,12 +1,13 @@
 {
-   "properties" : {
-      "Distrito" : "SAN JUAN",
-      "Provincia" : "HEREDIA",
-      "Codigo" : "40403",
-      "Canton" : "SANTA BARBARA"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Distrito" : "SAN JUAN",
+      "Canton" : "SANTA BARBARA",
+      "Codigo" : "40403"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -964,7 +965,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

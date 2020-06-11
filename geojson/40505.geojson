@@ -1,12 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "HEREDIA",
       "Distrito" : "CONCEPCION",
-      "Codigo" : "40505",
-      "Canton" : "SAN RAFAEL"
+      "Canton" : "SAN RAFAEL",
+      "Codigo" : "40505"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1572,7 +1573,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "ALAJUELA",
-      "Codigo" : "20108",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN RAFAEL"
-   },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2682,5 +2677,10 @@
          ]
       ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "SAN RAFAEL",
+      "Codigo" : "20108",
+      "Canton" : "ALAJUELA",
+      "Provincia" : "ALAJUELA"
+   }
 }

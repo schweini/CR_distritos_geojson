@@ -1,12 +1,13 @@
 {
-   "properties" : {
-      "Codigo" : "20306",
-      "Canton" : "GRECIA",
-      "Distrito" : "RIO CUARTO",
-      "Provincia" : "ALAJUELA"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "RIO CUARTO",
+      "Codigo" : "20306",
+      "Canton" : "GRECIA"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5192,7 +5193,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

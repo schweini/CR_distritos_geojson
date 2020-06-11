@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1196,11 +1197,10 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "CURRIDABAT",
+      "Codigo" : "11801",
       "Canton" : "CURRIDABAT",
-      "Codigo" : "11801"
+      "Distrito" : "CURRIDABAT",
+      "Provincia" : "SAN JOSE"
    }
 }

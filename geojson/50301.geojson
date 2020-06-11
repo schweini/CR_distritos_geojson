@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "SANTA CRUZ",
+      "Canton" : "SANTA CRUZ",
+      "Codigo" : "50301",
+      "Provincia" : "GUANACASTE"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6499,12 +6504,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Distrito" : "SANTA CRUZ",
-      "Provincia" : "GUANACASTE",
-      "Codigo" : "50301",
-      "Canton" : "SANTA CRUZ"
+      ],
+      "type" : "MultiPolygon"
    }
 }

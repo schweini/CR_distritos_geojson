@@ -1,6 +1,12 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "LAS JUNTAS",
+      "Canton" : "ABANGARES",
+      "Codigo" : "50701",
+      "Provincia" : "GUANACASTE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6010,13 +6016,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "properties" : {
-      "Codigo" : "50701",
-      "Canton" : "ABANGARES",
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "LAS JUNTAS"
-   }
+   "type" : "Feature"
 }

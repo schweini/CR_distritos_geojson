@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Canton" : "TARRAZU",
-      "Codigo" : "10501",
+      "Provincia" : "SAN JOSE",
       "Distrito" : "SAN MARCOS",
-      "Provincia" : "SAN JOSE"
+      "Codigo" : "10501",
+      "Canton" : "TARRAZU"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1435,8 +1437,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

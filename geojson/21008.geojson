@@ -1726,9 +1726,9 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
-      "Codigo" : "21008",
       "Canton" : "SAN CARLOS",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "LA TIGRA"
+      "Codigo" : "21008",
+      "Distrito" : "LA TIGRA",
+      "Provincia" : "ALAJUELA"
    }
 }

@@ -1,13 +1,12 @@
 {
-   "properties" : {
-      "Distrito" : "MONTERREY",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "ASERRI",
-      "Codigo" : "10606"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "MONTERREY",
+      "Codigo" : "10606",
+      "Canton" : "ASERRI"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1041,6 +1040,7 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    }
 }

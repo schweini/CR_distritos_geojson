@@ -1,7 +1,5 @@
 {
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1799,12 +1797,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
       "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN ANTONIO",
       "Canton" : "PURISCAL",
-      "Codigo" : "10408"
-   }
+      "Codigo" : "10408",
+      "Distrito" : "SAN ANTONIO"
+   },
+   "type" : "Feature"
 }

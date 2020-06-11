@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Codigo" : "11903",
-      "Canton" : "PEREZ ZELEDON",
+      "Provincia" : "SAN JOSE",
       "Distrito" : "DANIEL FLORES",
-      "Provincia" : "SAN JOSE"
+      "Codigo" : "11903",
+      "Canton" : "PEREZ ZELEDON"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -3634,5 +3633,6 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "type" : "Feature"
 }

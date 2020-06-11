@@ -1,5 +1,7 @@
 {
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7157,14 +7159,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "SANTA CRUZ",
-      "Codigo" : "50306",
+      "Provincia" : "GUANACASTE",
       "Distrito" : "CUAJINIQUIL",
-      "Provincia" : "GUANACASTE"
+      "Codigo" : "50306",
+      "Canton" : "SANTA CRUZ"
    }
 }

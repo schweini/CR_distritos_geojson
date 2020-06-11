@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "geometry" : {
+      "coordinates" : [
+         [
+            []
+         ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Canton" : "NICOYA",
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "502"
+   }
+}

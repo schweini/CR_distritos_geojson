@@ -1,9 +1,10 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Provincia" : "SAN JOSE",
       "Canton" : "PURISCAL",
       "Codigo" : "10404",
-      "Distrito" : "GRIFO ALTO",
-      "Provincia" : "SAN JOSE"
+      "Distrito" : "GRIFO ALTO"
    },
    "geometry" : {
       "coordinates" : [
@@ -1509,6 +1510,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+   }
 }

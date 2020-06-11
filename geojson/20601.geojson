@@ -1,5 +1,12 @@
 {
+   "properties" : {
+      "Distrito" : "NARANJO",
+      "Canton" : "NARANJO",
+      "Codigo" : "20601",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3233,14 +3240,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "20601",
-      "Canton" : "NARANJO",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "NARANJO"
-   }
+   "type" : "Feature"
 }

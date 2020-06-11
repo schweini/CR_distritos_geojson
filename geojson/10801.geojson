@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "GUADALUPE",
-      "Canton" : "GOICOECHEA",
-      "Codigo" : "10801"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1197,6 +1189,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Canton" : "GOICOECHEA",
+      "Codigo" : "10801",
+      "Distrito" : "GUADALUPE",
+      "Provincia" : "SAN JOSE"
+   },
+   "type" : "Feature"
 }

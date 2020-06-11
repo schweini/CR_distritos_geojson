@@ -1,6 +1,6 @@
 {
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3302,13 +3302,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
       "Provincia" : "GUANACASTE",
-      "Distrito" : "MOGOTE",
+      "Codigo" : "50403",
       "Canton" : "BAGACES",
-      "Codigo" : "50403"
-   }
+      "Distrito" : "MOGOTE"
+   },
+   "type" : "Feature"
 }

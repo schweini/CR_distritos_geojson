@@ -1,6 +1,6 @@
 {
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -602,13 +602,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
-      "Distrito" : "GRAVILIAS",
-      "Provincia" : "SAN JOSE",
+      "Codigo" : "10312",
       "Canton" : "DESAMPARADOS",
-      "Codigo" : "10312"
-   }
+      "Distrito" : "GRAVILIAS",
+      "Provincia" : "SAN JOSE"
+   },
+   "type" : "Feature"
 }

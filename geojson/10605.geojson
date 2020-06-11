@@ -1,9 +1,9 @@
 {
    "properties" : {
+      "Distrito" : "LEGUA",
       "Canton" : "ASERRI",
       "Codigo" : "10605",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "LEGUA"
+      "Provincia" : "SAN JOSE"
    },
    "geometry" : {
       "coordinates" : [

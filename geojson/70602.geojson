@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Distrito" : "MERCEDES",
-      "Provincia" : "LIMON",
-      "Codigo" : "70602",
-      "Canton" : "GUACIMO"
-   },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3914,5 +3907,12 @@
             ]
          ]
       ]
-   }
+   },
+   "properties" : {
+      "Distrito" : "MERCEDES",
+      "Canton" : "GUACIMO",
+      "Codigo" : "70602",
+      "Provincia" : "LIMON"
+   },
+   "type" : "Feature"
 }

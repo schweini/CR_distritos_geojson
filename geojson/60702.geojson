@@ -1,5 +1,12 @@
 {
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Codigo" : "60702",
+      "Canton" : "GOLFITO",
+      "Distrito" : "PUERTO JIMENEZ"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -9265,14 +9272,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "PUERTO JIMENEZ",
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "60702",
-      "Canton" : "GOLFITO"
-   }
+   "type" : "Feature"
 }

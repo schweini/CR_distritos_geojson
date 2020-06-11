@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1179,8 +1178,9 @@
    },
    "properties" : {
       "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN RAFAEL",
+      "Canton" : "PURISCAL",
       "Codigo" : "10405",
-      "Canton" : "PURISCAL"
-   }
+      "Distrito" : "SAN RAFAEL"
+   },
+   "type" : "Feature"
 }

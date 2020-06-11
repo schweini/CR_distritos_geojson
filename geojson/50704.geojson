@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "50704",
+      "Canton" : "ABANGARES",
+      "Distrito" : "COLORADO",
+      "Provincia" : "GUANACASTE"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -3961,12 +3968,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "COLORADO",
-      "Codigo" : "50704",
-      "Canton" : "ABANGARES"
    }
 }

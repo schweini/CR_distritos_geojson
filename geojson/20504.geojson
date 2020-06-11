@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "SAN ISIDRO",
+      "Codigo" : "20504",
+      "Canton" : "ATENAS"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1209,10 +1214,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Canton" : "ATENAS",
-      "Codigo" : "20504",
-      "Distrito" : "SAN ISIDRO",
-      "Provincia" : "ALAJUELA"
-   }
+   "type" : "Feature"
 }

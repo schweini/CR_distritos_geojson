@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "LA GARITA",
+      "Canton" : "LA CRUZ",
       "Codigo" : "51003",
-      "Canton" : "LA CRUZ"
+      "Distrito" : "LA GARITA",
+      "Provincia" : "GUANACASTE"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4146,5 +4145,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

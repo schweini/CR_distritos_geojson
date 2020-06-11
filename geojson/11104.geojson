@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "VAZQUEZ DE CORONADO",
-      "Codigo" : "11104",
-      "Distrito" : "PATALILLO",
-      "Provincia" : "SAN JOSE"
-   },
    "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
@@ -746,5 +740,11 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "11104",
+      "Canton" : "VAZQUEZ DE CORONADO",
+      "Distrito" : "PATALILLO"
    }
 }

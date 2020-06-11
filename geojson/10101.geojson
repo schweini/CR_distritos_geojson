@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "10101",
-      "Canton" : "SAN JOSE",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "EL CARMEN"
-   },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -534,5 +527,12 @@
             ]
          ]
       ]
-   }
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "10101",
+      "Canton" : "SAN JOSE",
+      "Distrito" : "EL CARMEN"
+   },
+   "type" : "Feature"
 }

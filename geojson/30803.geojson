@@ -1,12 +1,12 @@
 {
    "properties" : {
       "Provincia" : "CARTAGO",
-      "Distrito" : "TOBOSI",
+      "Codigo" : "30803",
       "Canton" : "EL GUARCO",
-      "Codigo" : "30803"
+      "Distrito" : "TOBOSI"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2072,7 +2072,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "type" : "Feature"
 }

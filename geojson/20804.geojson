@@ -1,6 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "CARRILLOS",
+      "Codigo" : "20804",
+      "Canton" : "POAS"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3258,13 +3264,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "POAS",
-      "Codigo" : "20804",
-      "Distrito" : "CARRILLOS",
-      "Provincia" : "ALAJUELA"
+      ],
+      "type" : "MultiPolygon"
    }
 }

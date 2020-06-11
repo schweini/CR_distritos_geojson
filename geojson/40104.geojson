@@ -1,11 +1,11 @@
 {
-   "properties" : {
-      "Distrito" : "ULLOA",
-      "Provincia" : "HEREDIA",
-      "Canton" : "HEREDIA",
-      "Codigo" : "40104"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Distrito" : "ULLOA",
+      "Codigo" : "40104",
+      "Canton" : "HEREDIA"
+   },
    "geometry" : {
       "coordinates" : [
          [

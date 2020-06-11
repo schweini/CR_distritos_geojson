@@ -1,6 +1,6 @@
 {
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4458,13 +4458,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "NARANJITO",
       "Provincia" : "PUNTARENAS",
       "Canton" : "AGUIRRE",
-      "Codigo" : "60603"
+      "Codigo" : "60603",
+      "Distrito" : "NARANJITO"
    }
 }

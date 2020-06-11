@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "MACACONA",
+      "Canton" : "ESPARZA",
+      "Codigo" : "60203"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2311,12 +2316,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Distrito" : "MACACONA",
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "60203",
-      "Canton" : "ESPARZA"
+      ],
+      "type" : "MultiPolygon"
    }
 }

@@ -1,12 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Provincia" : "SAN JOSE",
       "Distrito" : "TIRRASES",
       "Canton" : "CURRIDABAT",
       "Codigo" : "11804"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -996,7 +997,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

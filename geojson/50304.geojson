@@ -1,12 +1,11 @@
 {
    "properties" : {
-      "Canton" : "SANTA CRUZ",
+      "Provincia" : "GUANACASTE",
       "Codigo" : "50304",
-      "Distrito" : "TEMPATE",
-      "Provincia" : "GUANACASTE"
+      "Canton" : "SANTA CRUZ",
+      "Distrito" : "TEMPATE"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4586,7 +4585,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "type" : "Feature"
 }

@@ -1,11 +1,11 @@
 {
+   "type" : "Feature",
    "properties" : {
+      "Provincia" : "SAN JOSE",
       "Codigo" : "10903",
       "Canton" : "SANTA ANA",
-      "Provincia" : "SAN JOSE",
       "Distrito" : "POZOS"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [

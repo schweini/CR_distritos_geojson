@@ -1,6 +1,11 @@
 {
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "50901",
+      "Canton" : "NANDAYURE",
+      "Distrito" : "CARMONA"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1894,13 +1899,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "50901",
-      "Canton" : "NANDAYURE",
-      "Distrito" : "CARMONA",
-      "Provincia" : "GUANACASTE"
-   }
+   "type" : "Feature"
 }

@@ -1,6 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "PAVON",
+      "Codigo" : "60704",
+      "Canton" : "GOLFITO"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -10666,13 +10672,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "PAVON",
-      "Provincia" : "PUNTARENAS",
-      "Codigo" : "60704",
-      "Canton" : "GOLFITO"
+      ],
+      "type" : "MultiPolygon"
    }
 }

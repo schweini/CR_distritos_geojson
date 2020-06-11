@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "EL GUARCO",
-      "Codigo" : "30802",
-      "Distrito" : "SAN ISIDRO",
-      "Provincia" : "CARTAGO"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3141,6 +3135,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Canton" : "EL GUARCO",
+      "Codigo" : "30802",
+      "Distrito" : "SAN ISIDRO"
    },
    "type" : "Feature"
 }

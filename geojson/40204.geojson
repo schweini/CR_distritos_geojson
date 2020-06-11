@@ -420,11 +420,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
       "Distrito" : "SAN ROQUE",
-      "Provincia" : "HEREDIA",
       "Canton" : "BARVA",
-      "Codigo" : "40204"
-   }
+      "Codigo" : "40204",
+      "Provincia" : "HEREDIA"
+   },
+   "type" : "Feature"
 }

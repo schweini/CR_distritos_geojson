@@ -1,6 +1,7 @@
 {
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1782,13 +1783,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
-      "Provincia" : "SAN JOSE",
       "Distrito" : "RANCHO REDONDO",
       "Codigo" : "10806",
-      "Canton" : "GOICOECHEA"
+      "Canton" : "GOICOECHEA",
+      "Provincia" : "SAN JOSE"
    }
 }

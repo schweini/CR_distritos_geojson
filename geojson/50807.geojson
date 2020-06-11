@@ -1,5 +1,6 @@
 {
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5269,14 +5270,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "ARENAL",
-      "Provincia" : "GUANACASTE",
       "Canton" : "TILARAN",
-      "Codigo" : "50807"
-   }
+      "Codigo" : "50807",
+      "Distrito" : "ARENAL",
+      "Provincia" : "GUANACASTE"
+   },
+   "type" : "Feature"
 }

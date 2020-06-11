@@ -1,5 +1,7 @@
 {
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1189,14 +1191,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
    "properties" : {
+      "Provincia" : "CARTAGO",
       "Codigo" : "30704",
       "Canton" : "OREAMUNO",
-      "Provincia" : "CARTAGO",
       "Distrito" : "CIPRESES"
    }
 }

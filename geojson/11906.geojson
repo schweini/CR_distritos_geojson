@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "PLATANARES",
+      "Codigo" : "11906",
+      "Canton" : "PEREZ ZELEDON",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3778,13 +3785,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "PLATANARES",
-      "Codigo" : "11906",
-      "Canton" : "PEREZ ZELEDON"
+      ]
    }
 }

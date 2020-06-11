@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "41004",
+      "Canton" : "SARAPIQUI",
+      "Distrito" : "LLANURAS DEL GASPAR",
+      "Provincia" : "HEREDIA"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2813,10 +2818,5 @@
          ]
       ]
    },
-   "properties" : {
-      "Codigo" : "41004",
-      "Canton" : "SARAPIQUI",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "LLANURAS DEL GASPAR"
-   }
+   "type" : "Feature"
 }

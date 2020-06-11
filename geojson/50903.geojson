@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "50903",
+      "Canton" : "NANDAYURE",
+      "Distrito" : "ZAPOTAL"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -5421,10 +5426,5 @@
          ]
       ]
    },
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "ZAPOTAL",
-      "Canton" : "NANDAYURE",
-      "Codigo" : "50903"
-   }
+   "type" : "Feature"
 }

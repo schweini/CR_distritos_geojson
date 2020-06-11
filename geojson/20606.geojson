@@ -1591,8 +1591,8 @@
    },
    "properties" : {
       "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN JUAN",
+      "Canton" : "NARANJO",
       "Codigo" : "20606",
-      "Canton" : "NARANJO"
+      "Distrito" : "SAN JUAN"
    }
 }

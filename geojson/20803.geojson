@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "20803",
+      "Canton" : "POAS",
+      "Distrito" : "SAN RAFAEL",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2987,12 +2992,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Canton" : "POAS",
-      "Codigo" : "20803",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN RAFAEL"
+      ],
+      "type" : "MultiPolygon"
    }
 }

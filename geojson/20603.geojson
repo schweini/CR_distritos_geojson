@@ -1,7 +1,6 @@
 {
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1211,12 +1210,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
       "Distrito" : "SAN JOSE",
-      "Provincia" : "ALAJUELA",
+      "Codigo" : "20603",
       "Canton" : "NARANJO",
-      "Codigo" : "20603"
+      "Provincia" : "ALAJUELA"
    }
 }

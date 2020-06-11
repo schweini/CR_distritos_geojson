@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "30508",
-      "Canton" : "TURRIALBA",
-      "Distrito" : "TAYUTIC",
-      "Provincia" : "CARTAGO"
-   },
    "type" : "Feature",
    "geometry" : {
       "coordinates" : [
@@ -1938,5 +1932,11 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "TAYUTIC",
+      "Codigo" : "30508",
+      "Canton" : "TURRIALBA",
+      "Provincia" : "CARTAGO"
    }
 }

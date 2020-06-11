@@ -1,0 +1,16 @@
+{
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Codigo" : "609",
+      "Canton" : "PARRITA"
+   },
+   "geometry" : {
+      "coordinates" : [
+         [
+            []
+         ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
+}

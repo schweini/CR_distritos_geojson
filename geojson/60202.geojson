@@ -1,6 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "SAN JUAN GRANDE",
+      "Codigo" : "60202",
+      "Canton" : "ESPARZA"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3378,13 +3384,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "ESPARZA",
-      "Codigo" : "60202",
-      "Distrito" : "SAN JUAN GRANDE",
-      "Provincia" : "PUNTARENAS"
+      ],
+      "type" : "MultiPolygon"
    }
 }

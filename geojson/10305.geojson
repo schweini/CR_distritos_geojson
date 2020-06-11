@@ -1,11 +1,11 @@
 {
-   "properties" : {
-      "Distrito" : "SAN ANTONIO",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "DESAMPARADOS",
-      "Codigo" : "10305"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "SAN ANTONIO",
+      "Codigo" : "10305",
+      "Canton" : "DESAMPARADOS"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [

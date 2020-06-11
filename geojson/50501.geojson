@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "FILADELFIA",
+      "Codigo" : "50501",
+      "Canton" : "CARRILLO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3629,10 +3634,5 @@
          ]
       ]
    },
-   "properties" : {
-      "Canton" : "CARRILLO",
-      "Codigo" : "50501",
-      "Distrito" : "FILADELFIA",
-      "Provincia" : "GUANACASTE"
-   }
+   "type" : "Feature"
 }

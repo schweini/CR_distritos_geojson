@@ -1,8 +1,8 @@
 {
    "properties" : {
+      "Distrito" : "VENECIA",
       "Canton" : "SAN CARLOS",
       "Codigo" : "21005",
-      "Distrito" : "VENECIA",
       "Provincia" : "ALAJUELA"
    },
    "geometry" : {

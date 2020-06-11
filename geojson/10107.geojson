@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "URUCA",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "SAN JOSE",
-      "Codigo" : "10107"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2384,7 +2378,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "10107",
+      "Canton" : "SAN JOSE",
+      "Distrito" : "URUCA"
+   }
 }

@@ -1,6 +1,12 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "MATA REDONDA",
+      "Canton" : "SAN JOSE",
+      "Codigo" : "10108",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -966,13 +972,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "MATA REDONDA",
-      "Codigo" : "10108",
-      "Canton" : "SAN JOSE"
-   }
+   "type" : "Feature"
 }

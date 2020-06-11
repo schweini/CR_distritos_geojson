@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Canton" : "CAÑAS",
+      "Codigo" : "50604",
+      "Distrito" : "BEBEDERO",
+      "Provincia" : "GUANACASTE"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1832,11 +1838,5 @@
          ]
       ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "BEBEDERO",
-      "Provincia" : "GUANACASTE",
-      "Canton" : "CAÑAS",
-      "Codigo" : "50604"
-   }
+   "type" : "Feature"
 }

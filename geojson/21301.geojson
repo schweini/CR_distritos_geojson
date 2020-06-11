@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "UPALA",
-      "Codigo" : "21301",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "UPALA"
-   },
    "type" : "Feature",
    "geometry" : {
       "coordinates" : [
@@ -3550,5 +3544,11 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "UPALA",
+      "Canton" : "UPALA",
+      "Codigo" : "21301",
+      "Provincia" : "ALAJUELA"
    }
 }

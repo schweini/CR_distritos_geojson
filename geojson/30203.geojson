@@ -1,11 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "OROSI",
-      "Provincia" : "CARTAGO",
-      "Canton" : "PARAISO",
-      "Codigo" : "30203"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3359,8 +3354,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Canton" : "PARAISO",
+      "Codigo" : "30203",
+      "Distrito" : "OROSI"
    },
    "type" : "Feature"
 }

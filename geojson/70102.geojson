@@ -1,11 +1,11 @@
 {
+   "type" : "Feature",
    "properties" : {
       "Canton" : "LIMON",
       "Codigo" : "70102",
-      "Provincia" : "LIMON",
-      "Distrito" : "VALLE DE LA ESTRELLA"
+      "Distrito" : "VALLE DE LA ESTRELLA",
+      "Provincia" : "LIMON"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [

@@ -1,4 +1,5 @@
 {
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2360,11 +2361,10 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
+      "Distrito" : "EL GENERAL",
       "Canton" : "PEREZ ZELEDON",
       "Codigo" : "11902",
-      "Distrito" : "EL GENERAL",
       "Provincia" : "SAN JOSE"
    }
 }

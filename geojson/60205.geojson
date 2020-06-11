@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "SAN JERONIMO",
+      "Codigo" : "60205",
+      "Canton" : "ESPARZA",
+      "Provincia" : "PUNTARENAS"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3251,12 +3256,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Canton" : "ESPARZA",
-      "Codigo" : "60205",
-      "Distrito" : "SAN JERONIMO",
-      "Provincia" : "PUNTARENAS"
+      ],
+      "type" : "MultiPolygon"
    }
 }

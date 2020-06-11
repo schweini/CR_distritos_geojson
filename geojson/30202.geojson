@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "SANTIAGO",
+      "Canton" : "PARAISO",
+      "Codigo" : "30202",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -2168,11 +2174,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "SANTIAGO",
-      "Codigo" : "30202",
-      "Canton" : "PARAISO"
    }
 }

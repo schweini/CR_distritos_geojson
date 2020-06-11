@@ -8494,9 +8494,9 @@
       ]
    },
    "properties" : {
-      "Codigo" : "41002",
-      "Canton" : "SARAPIQUI",
+      "Provincia" : "HEREDIA",
       "Distrito" : "LA VIRGEN",
-      "Provincia" : "HEREDIA"
+      "Codigo" : "41002",
+      "Canton" : "SARAPIQUI"
    }
 }

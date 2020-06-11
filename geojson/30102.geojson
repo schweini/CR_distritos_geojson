@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "OCCIDENTAL",
-      "Codigo" : "30102",
-      "Canton" : "CARTAGO"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -321,6 +314,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "OCCIDENTAL",
+      "Codigo" : "30102",
+      "Canton" : "CARTAGO",
+      "Provincia" : "CARTAGO"
    }
 }

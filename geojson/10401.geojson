@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Canton" : "PURISCAL",
-      "Codigo" : "10401",
-      "Distrito" : "SANTIAGO",
-      "Provincia" : "SAN JOSE"
-   },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1968,7 +1962,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "properties" : {
+      "Canton" : "PURISCAL",
+      "Codigo" : "10401",
+      "Distrito" : "SANTIAGO",
+      "Provincia" : "SAN JOSE"
+   },
+   "type" : "Feature"
 }

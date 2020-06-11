@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "11604",
-      "Canton" : "TURRUBARES",
-      "Distrito" : "SAN LUIS",
-      "Provincia" : "SAN JOSE"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1949,6 +1943,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "TURRUBARES",
+      "Codigo" : "11604",
+      "Distrito" : "SAN LUIS"
    },
    "type" : "Feature"
 }

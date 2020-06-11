@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "PALMAR",
+      "Canton" : "OSA",
+      "Codigo" : "60502",
+      "Provincia" : "PUNTARENAS"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4437,10 +4442,5 @@
          ]
       ]
    },
-   "properties" : {
-      "Canton" : "OSA",
-      "Codigo" : "60502",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "PALMAR"
-   }
+   "type" : "Feature"
 }

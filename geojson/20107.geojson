@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "20107",
-      "Canton" : "ALAJUELA",
-      "Distrito" : "SABANILLA",
-      "Provincia" : "ALAJUELA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -5705,6 +5699,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "SABANILLA",
+      "Canton" : "ALAJUELA",
+      "Codigo" : "20107"
    },
    "type" : "Feature"
 }

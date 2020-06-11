@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Codigo" : "20508",
+      "Provincia" : "ALAJUELA",
       "Canton" : "ATENAS",
-      "Distrito" : "ESCOBAL",
-      "Provincia" : "ALAJUELA"
+      "Codigo" : "20508",
+      "Distrito" : "ESCOBAL"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1426,5 +1425,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

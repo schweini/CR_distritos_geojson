@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "CORREDORES",
-      "Codigo" : "61004",
-      "Distrito" : "LAUREL",
-      "Provincia" : "PUNTARENAS"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4001,6 +3995,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Distrito" : "LAUREL",
+      "Codigo" : "61004",
+      "Canton" : "CORREDORES",
+      "Provincia" : "PUNTARENAS"
    },
    "type" : "Feature"
 }

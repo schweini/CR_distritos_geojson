@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "SAN ISIDRO",
+      "Codigo" : "20302",
+      "Canton" : "GRECIA"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -4003,12 +4010,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN ISIDRO",
-      "Codigo" : "20302",
-      "Canton" : "GRECIA"
    }
 }

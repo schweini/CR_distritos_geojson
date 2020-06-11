@@ -1,6 +1,11 @@
 {
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "TURRUCARES",
+      "Canton" : "ALAJUELA",
+      "Codigo" : "20111"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1834,13 +1839,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "TURRUCARES",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "20111",
-      "Canton" : "ALAJUELA"
-   }
+   "type" : "Feature"
 }

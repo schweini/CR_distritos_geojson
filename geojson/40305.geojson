@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SANTO TOMAS",
-      "Codigo" : "40305",
-      "Canton" : "SANTO DOMINGO"
-   },
    "type" : "Feature",
    "geometry" : {
       "coordinates" : [
@@ -666,5 +660,11 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Codigo" : "40305",
+      "Canton" : "SANTO DOMINGO",
+      "Distrito" : "SANTO TOMAS",
+      "Provincia" : "HEREDIA"
    }
 }

@@ -3274,9 +3274,9 @@
       ]
    },
    "properties" : {
-      "Distrito" : "CARTAGENA",
       "Provincia" : "GUANACASTE",
-      "Canton" : "SANTA CRUZ",
-      "Codigo" : "50305"
+      "Distrito" : "CARTAGENA",
+      "Codigo" : "50305",
+      "Canton" : "SANTA CRUZ"
    }
 }

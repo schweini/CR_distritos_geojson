@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "properties" : {
+      "Codigo" : "701",
+      "Provincia" : "LIMON",
+      "Canton" : "LIMON"
+   },
+   "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [
+         [
+            []
+         ]
+      ]
+   }
+}

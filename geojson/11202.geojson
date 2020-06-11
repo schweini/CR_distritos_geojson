@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "11202",
+      "Canton" : "ACOSTA",
+      "Distrito" : "GUAITIL"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -2307,12 +2314,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "GUAITIL",
-      "Canton" : "ACOSTA",
-      "Codigo" : "11202"
    }
 }

@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "JESUS MARIA",
-      "Codigo" : "20403",
-      "Canton" : "SAN MATEO"
-   },
    "type" : "Feature",
    "geometry" : {
       "coordinates" : [
@@ -2470,5 +2464,11 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Codigo" : "20403",
+      "Canton" : "SAN MATEO",
+      "Distrito" : "JESUS MARIA",
+      "Provincia" : "ALAJUELA"
    }
 }

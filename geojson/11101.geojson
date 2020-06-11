@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "VAZQUEZ DE CORONADO",
+      "Codigo" : "11101",
+      "Distrito" : "SAN ISIDRO"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1743,12 +1747,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Distrito" : "SAN ISIDRO",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "11101",
-      "Canton" : "VAZQUEZ DE CORONADO"
-   }
+   "type" : "Feature"
 }

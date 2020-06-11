@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "LIMON",
-      "Distrito" : "EL CAIRO",
-      "Canton" : "SIQUIRRES",
-      "Codigo" : "70305"
-   },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -4146,5 +4139,12 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Canton" : "SIQUIRRES",
+      "Codigo" : "70305",
+      "Distrito" : "EL CAIRO",
+      "Provincia" : "LIMON"
+   },
+   "type" : "Feature"
 }

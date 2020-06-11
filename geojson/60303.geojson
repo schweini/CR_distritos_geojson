@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "BUENOS AIRES",
-      "Codigo" : "60303",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "POTRERO GRANDE"
-   },
    "geometry" : {
       "coordinates" : [
          [
@@ -10313,6 +10307,12 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Canton" : "BUENOS AIRES",
+      "Codigo" : "60303",
+      "Distrito" : "POTRERO GRANDE"
    },
    "type" : "Feature"
 }

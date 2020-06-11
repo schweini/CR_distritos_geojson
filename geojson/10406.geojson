@@ -1,9 +1,10 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "CANDELARITA",
-      "Provincia" : "SAN JOSE",
+      "Codigo" : "10406",
       "Canton" : "PURISCAL",
-      "Codigo" : "10406"
+      "Distrito" : "CANDELARITA",
+      "Provincia" : "SAN JOSE"
    },
    "geometry" : {
       "coordinates" : [
@@ -1577,6 +1578,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+   }
 }

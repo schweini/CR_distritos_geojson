@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "BAHIA BALLENA",
-      "Provincia" : "PUNTARENAS",
       "Canton" : "OSA",
-      "Codigo" : "60504"
+      "Codigo" : "60504",
+      "Distrito" : "BAHIA BALLENA",
+      "Provincia" : "PUNTARENAS"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4581,8 +4583,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

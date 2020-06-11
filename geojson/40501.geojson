@@ -1,11 +1,7 @@
 {
-   "properties" : {
-      "Distrito" : "SAN RAFAEL",
-      "Provincia" : "HEREDIA",
-      "Codigo" : "40501",
-      "Canton" : "SAN RAFAEL"
-   },
+   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -339,8 +335,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "SAN RAFAEL",
+      "Canton" : "SAN RAFAEL",
+      "Codigo" : "40501",
+      "Provincia" : "HEREDIA"
+   }
 }

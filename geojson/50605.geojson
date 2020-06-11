@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "POROZAL",
-      "Provincia" : "GUANACASTE",
-      "Codigo" : "50605",
-      "Canton" : "CAÑAS"
-   },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1756,7 +1750,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "properties" : {
+      "Canton" : "CAÑAS",
+      "Codigo" : "50605",
+      "Distrito" : "POROZAL",
+      "Provincia" : "GUANACASTE"
+   },
+   "type" : "Feature"
 }

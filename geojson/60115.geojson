@@ -2,10 +2,11 @@
    "properties" : {
       "Provincia" : "PUNTARENAS",
       "Distrito" : "EL ROBLE",
-      "Canton" : "PUNTARENAS",
-      "Codigo" : "60115"
+      "Codigo" : "60115",
+      "Canton" : "PUNTARENAS"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1127,8 +1128,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "type" : "Feature"
 }

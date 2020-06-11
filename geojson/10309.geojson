@@ -5,7 +5,6 @@
       "Codigo" : "10309",
       "Canton" : "DESAMPARADOS"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1886,5 +1885,6 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "type" : "Feature"
 }

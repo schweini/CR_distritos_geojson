@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "NARANJO",
-      "Codigo" : "20608",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "PALMITOS"
-   },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -1586,5 +1579,12 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Distrito" : "PALMITOS",
+      "Canton" : "NARANJO",
+      "Codigo" : "20608",
+      "Provincia" : "ALAJUELA"
+   },
+   "type" : "Feature"
 }

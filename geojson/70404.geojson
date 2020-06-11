@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Provincia" : "LIMON",
-      "Distrito" : "TELIRE",
-      "Canton" : "TALAMANCA",
-      "Codigo" : "70404"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -9997,6 +9990,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "LIMON",
+      "Distrito" : "TELIRE",
+      "Codigo" : "70404",
+      "Canton" : "TALAMANCA"
    }
 }

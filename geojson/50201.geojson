@@ -1,5 +1,13 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "NICOYA",
+      "Codigo" : "50201",
+      "Canton" : "NICOYA",
+      "Provincia" : "GUANACASTE"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -6877,14 +6885,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "NICOYA",
-      "Canton" : "NICOYA",
-      "Codigo" : "50201"
+      ]
    }
 }

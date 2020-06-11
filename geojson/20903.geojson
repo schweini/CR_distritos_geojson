@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "OROTINA",
-      "Codigo" : "20903",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "HACIENDA VIEJA"
-   },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -874,5 +867,12 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Distrito" : "HACIENDA VIEJA",
+      "Canton" : "OROTINA",
+      "Codigo" : "20903",
+      "Provincia" : "ALAJUELA"
+   },
+   "type" : "Feature"
 }

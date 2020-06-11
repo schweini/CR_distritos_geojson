@@ -4710,9 +4710,9 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
+      "Distrito" : "LA FORTUNA",
       "Canton" : "SAN CARLOS",
       "Codigo" : "21007",
-      "Distrito" : "LA FORTUNA",
       "Provincia" : "ALAJUELA"
    }
 }

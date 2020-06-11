@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Distrito" : "POCOSOL",
       "Provincia" : "ALAJUELA",
+      "Canton" : "SAN CARLOS",
       "Codigo" : "21013",
-      "Canton" : "SAN CARLOS"
+      "Distrito" : "POCOSOL"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -15494,5 +15493,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

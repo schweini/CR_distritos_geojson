@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4584,7 +4583,8 @@
    "properties" : {
       "Canton" : "TURRIALBA",
       "Codigo" : "30502",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "LA SUIZA"
-   }
+      "Distrito" : "LA SUIZA",
+      "Provincia" : "CARTAGO"
+   },
+   "type" : "Feature"
 }

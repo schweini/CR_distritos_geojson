@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -7746,5 +7745,6 @@
       "Distrito" : "TRONADORA",
       "Canton" : "TILARAN",
       "Codigo" : "50803"
-   }
+   },
+   "type" : "Feature"
 }

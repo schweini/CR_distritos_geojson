@@ -1676,11 +1676,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Provincia" : "ALAJUELA",
-      "Distrito" : "COYOLAR",
       "Codigo" : "20904",
-      "Canton" : "OROTINA"
-   }
+      "Canton" : "OROTINA",
+      "Distrito" : "COYOLAR"
+   },
+   "type" : "Feature"
 }

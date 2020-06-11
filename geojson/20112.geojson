@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "TAMBOR",
-      "Codigo" : "20112",
-      "Canton" : "ALAJUELA"
-   },
    "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
@@ -4258,5 +4252,11 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Distrito" : "TAMBOR",
+      "Codigo" : "20112",
+      "Canton" : "ALAJUELA",
+      "Provincia" : "ALAJUELA"
    }
 }

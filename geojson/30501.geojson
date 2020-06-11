@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Distrito" : "TURRIALBA",
-      "Provincia" : "CARTAGO",
-      "Codigo" : "30501",
-      "Canton" : "TURRIALBA"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1636,7 +1629,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Distrito" : "TURRIALBA",
+      "Codigo" : "30501",
+      "Canton" : "TURRIALBA",
+      "Provincia" : "CARTAGO"
    },
    "type" : "Feature"
 }

@@ -1,7 +1,6 @@
 {
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1023,12 +1022,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
-      "Distrito" : "SAN RAFAEL ARRIBA",
       "Provincia" : "SAN JOSE",
-      "Canton" : "DESAMPARADOS",
-      "Codigo" : "10304"
+      "Distrito" : "SAN RAFAEL ARRIBA",
+      "Codigo" : "10304",
+      "Canton" : "DESAMPARADOS"
    }
 }

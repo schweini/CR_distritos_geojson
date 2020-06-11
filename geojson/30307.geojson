@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Codigo" : "30307",
-      "Canton" : "LA UNION",
       "Distrito" : "SAN RAMON",
+      "Canton" : "LA UNION",
+      "Codigo" : "30307",
       "Provincia" : "CARTAGO"
    },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -566,5 +565,6 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "type" : "Feature"
 }

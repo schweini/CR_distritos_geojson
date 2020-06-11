@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -2918,9 +2917,10 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
-      "Canton" : "MORA",
-      "Codigo" : "10701",
       "Provincia" : "SAN JOSE",
-      "Distrito" : "COLON"
-   }
+      "Distrito" : "COLON",
+      "Canton" : "MORA",
+      "Codigo" : "10701"
+   },
+   "type" : "Feature"
 }

@@ -1,6 +1,7 @@
 {
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1134,13 +1135,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "properties" : {
+      "Provincia" : "SAN JOSE",
       "Codigo" : "10702",
       "Canton" : "MORA",
-      "Provincia" : "SAN JOSE",
       "Distrito" : "GUAYABO"
    }
 }

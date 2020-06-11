@@ -4214,9 +4214,9 @@
       "type" : "MultiPolygon"
    },
    "properties" : {
+      "Provincia" : "GUANACASTE",
       "Codigo" : "51103",
       "Canton" : "HOJANCHA",
-      "Distrito" : "PUERTO CARRILLO",
-      "Provincia" : "GUANACASTE"
+      "Distrito" : "PUERTO CARRILLO"
    }
 }

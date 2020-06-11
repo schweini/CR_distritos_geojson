@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "ESQUIPULAS",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "20706",
-      "Canton" : "PALMARES"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1344,7 +1338,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Distrito" : "ESQUIPULAS",
+      "Canton" : "PALMARES",
+      "Codigo" : "20706",
+      "Provincia" : "ALAJUELA"
+   }
 }

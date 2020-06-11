@@ -1,5 +1,12 @@
 {
+   "properties" : {
+      "Distrito" : "SANTA ROSA",
+      "Canton" : "TURRIALBA",
+      "Codigo" : "30509",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1233,14 +1240,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "30509",
-      "Canton" : "TURRIALBA",
-      "Provincia" : "CARTAGO",
-      "Distrito" : "SANTA ROSA"
-   }
+   "type" : "Feature"
 }

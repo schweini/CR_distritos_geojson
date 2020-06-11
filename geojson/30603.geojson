@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "CAPELLADES",
+      "Codigo" : "30603",
+      "Canton" : "ALVARADO",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2535,12 +2542,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "CAPELLADES",
-      "Provincia" : "CARTAGO",
-      "Canton" : "ALVARADO",
-      "Codigo" : "30603"
    }
 }

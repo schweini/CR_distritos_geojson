@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Distrito" : "LA GRANJA",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "20707",
-      "Canton" : "PALMARES"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -580,7 +573,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Codigo" : "20707",
+      "Canton" : "PALMARES",
+      "Distrito" : "LA GRANJA",
+      "Provincia" : "ALAJUELA"
    },
    "type" : "Feature"
 }

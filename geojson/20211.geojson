@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "CONCEPCION",
+      "Codigo" : "20211",
+      "Canton" : "SAN RAMON",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2068,11 +2074,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Distrito" : "CONCEPCION",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "20211",
-      "Canton" : "SAN RAMON"
    }
 }

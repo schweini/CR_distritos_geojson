@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "11102",
+      "Canton" : "VAZQUEZ DE CORONADO",
+      "Distrito" : "SAN RAFAEL"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1665,10 +1670,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Codigo" : "11102",
-      "Canton" : "VAZQUEZ DE CORONADO",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN RAFAEL"
-   }
+   "type" : "Feature"
 }

@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Canton" : "VAZQUEZ DE CORONADO",
-      "Codigo" : "11103",
-      "Distrito" : "DULCE NOMBRE DE JESUS",
-      "Provincia" : "SAN JOSE"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4484,7 +4477,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "11103",
+      "Canton" : "VAZQUEZ DE CORONADO",
+      "Distrito" : "DULCE NOMBRE DE JESUS"
    },
    "type" : "Feature"
 }

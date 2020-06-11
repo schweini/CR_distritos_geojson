@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Codigo" : "501",
+      "Canton" : "LIBERIA"
+   },
+   "geometry" : {
+      "coordinates" : [
+         [
+            []
+         ]
+      ],
+      "type" : "MultiPolygon"
+   }
+}

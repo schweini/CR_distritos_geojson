@@ -1,9 +1,9 @@
 {
    "properties" : {
-      "Canton" : "CARRILLO",
+      "Provincia" : "GUANACASTE",
       "Codigo" : "50503",
-      "Distrito" : "SARDINAL",
-      "Provincia" : "GUANACASTE"
+      "Canton" : "CARRILLO",
+      "Distrito" : "SARDINAL"
    },
    "geometry" : {
       "type" : "MultiPolygon",

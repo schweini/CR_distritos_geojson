@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Canton" : "SAN CARLOS",
-      "Codigo" : "21002",
-      "Distrito" : "FLORENCIA",
-      "Provincia" : "ALAJUELA"
-   },
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2916,7 +2910,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "FLORENCIA",
+      "Codigo" : "21002",
+      "Canton" : "SAN CARLOS"
+   }
 }

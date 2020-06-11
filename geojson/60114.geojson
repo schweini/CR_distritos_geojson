@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "ACAPULCO",
+      "Codigo" : "60114",
+      "Canton" : "PUNTARENAS"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3323,12 +3328,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Codigo" : "60114",
-      "Canton" : "PUNTARENAS",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "ACAPULCO"
+      ],
+      "type" : "MultiPolygon"
    }
 }

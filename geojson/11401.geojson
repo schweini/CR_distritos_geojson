@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "MORAVIA",
+      "Codigo" : "11401",
+      "Distrito" : "SAN VICENTE"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1379,12 +1383,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Distrito" : "SAN VICENTE",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "MORAVIA",
-      "Codigo" : "11401"
-   }
+   "type" : "Feature"
 }

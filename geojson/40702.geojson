@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Codigo" : "40702",
-      "Canton" : "BELEN",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "LA RIBERA"
-   },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -740,7 +734,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "properties" : {
+      "Codigo" : "40702",
+      "Canton" : "BELEN",
+      "Distrito" : "LA RIBERA",
+      "Provincia" : "HEREDIA"
+   },
+   "type" : "Feature"
 }

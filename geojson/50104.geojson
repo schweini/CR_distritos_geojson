@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Canton" : "LIBERIA",
+      "Codigo" : "50104",
+      "Distrito" : "NACASCOLO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -9266,11 +9272,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Canton" : "LIBERIA",
-      "Codigo" : "50104",
-      "Distrito" : "NACASCOLO",
-      "Provincia" : "GUANACASTE"
    }
 }

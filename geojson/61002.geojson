@@ -1,12 +1,7 @@
 {
-   "properties" : {
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "LA CUESTA",
-      "Codigo" : "61002",
-      "Canton" : "CORREDORES"
-   },
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -764,7 +759,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "LA CUESTA",
+      "Codigo" : "61002",
+      "Canton" : "CORREDORES"
    }
 }

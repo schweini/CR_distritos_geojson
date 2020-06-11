@@ -1,13 +1,11 @@
 {
    "properties" : {
+      "Provincia" : "PUNTARENAS",
       "Codigo" : "60602",
       "Canton" : "AGUIRRE",
-      "Provincia" : "PUNTARENAS",
       "Distrito" : "SAVEGRE"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4205,6 +4203,8 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
 }

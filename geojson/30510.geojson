@@ -1,12 +1,12 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Codigo" : "30510",
-      "Canton" : "TURRIALBA",
       "Distrito" : "TRES EQUIS",
+      "Canton" : "TURRIALBA",
+      "Codigo" : "30510",
       "Provincia" : "CARTAGO"
    },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1252,7 +1252,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature"
+      ],
+      "type" : "MultiPolygon"
+   }
 }

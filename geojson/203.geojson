@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "geometry" : {
+      "coordinates" : [
+         [
+            []
+         ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Canton" : "GRECIA",
+      "Codigo" : "203",
+      "Provincia" : "ALAJUELA"
+   }
+}

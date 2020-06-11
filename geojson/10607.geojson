@@ -1520,11 +1520,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
+      "Provincia" : "SAN JOSE",
       "Canton" : "ASERRI",
       "Codigo" : "10607",
-      "Provincia" : "SAN JOSE",
       "Distrito" : "SALITRILLOS"
-   }
+   },
+   "type" : "Feature"
 }

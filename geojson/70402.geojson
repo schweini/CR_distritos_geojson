@@ -1,12 +1,7 @@
 {
-   "properties" : {
-      "Distrito" : "SIXAOLA",
-      "Provincia" : "LIMON",
-      "Canton" : "TALAMANCA",
-      "Codigo" : "70402"
-   },
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3076,7 +3071,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Distrito" : "SIXAOLA",
+      "Codigo" : "70402",
+      "Canton" : "TALAMANCA",
+      "Provincia" : "LIMON"
    }
 }

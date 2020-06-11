@@ -1,9 +1,9 @@
 {
    "properties" : {
-      "Distrito" : "SAN PABLO",
       "Provincia" : "HEREDIA",
+      "Codigo" : "40203",
       "Canton" : "BARVA",
-      "Codigo" : "40203"
+      "Distrito" : "SAN PABLO"
    },
    "geometry" : {
       "coordinates" : [

@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Canton" : "UPALA",
+      "Codigo" : "21306",
+      "Distrito" : "DOS RIOS",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3695,12 +3699,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Codigo" : "21306",
-      "Canton" : "UPALA",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "DOS RIOS"
-   }
+   "type" : "Feature"
 }

@@ -1,11 +1,12 @@
 {
    "properties" : {
-      "Canton" : "SAN MATEO",
+      "Provincia" : "ALAJUELA",
       "Codigo" : "20401",
-      "Distrito" : "SAN MATEO",
-      "Provincia" : "ALAJUELA"
+      "Canton" : "SAN MATEO",
+      "Distrito" : "SAN MATEO"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2663,8 +2664,7 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    },
    "type" : "Feature"
 }

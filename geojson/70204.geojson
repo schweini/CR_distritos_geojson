@@ -1,10 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "70204",
-      "Canton" : "POCOCI",
-      "Provincia" : "LIMON",
-      "Distrito" : "ROXANA"
-   },
+   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -5702,5 +5697,10 @@
          ]
       ]
    },
-   "type" : "Feature"
+   "properties" : {
+      "Provincia" : "LIMON",
+      "Codigo" : "70204",
+      "Canton" : "POCOCI",
+      "Distrito" : "ROXANA"
+   }
 }

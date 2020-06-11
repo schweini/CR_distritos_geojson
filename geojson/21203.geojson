@@ -1,13 +1,11 @@
 {
    "properties" : {
+      "Provincia" : "ALAJUELA",
       "Canton" : "VALVERDE VEGA",
       "Codigo" : "21203",
-      "Provincia" : "ALAJUELA",
       "Distrito" : "TORO AMARILLO"
    },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2865,6 +2863,8 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "type" : "Feature"
 }

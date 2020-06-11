@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "HUACAS",
+      "Codigo" : "51104",
+      "Canton" : "HOJANCHA",
+      "Provincia" : "GUANACASTE"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1404,11 +1410,5 @@
             ]
          ]
       ]
-   },
-   "properties" : {
-      "Distrito" : "HUACAS",
-      "Provincia" : "GUANACASTE",
-      "Canton" : "HOJANCHA",
-      "Codigo" : "51104"
    }
 }

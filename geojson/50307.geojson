@@ -1,4 +1,10 @@
 {
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Canton" : "SANTA CRUZ",
+      "Codigo" : "50307",
+      "Distrito" : "DIRIA"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1944,11 +1950,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "50307",
-      "Canton" : "SANTA CRUZ",
-      "Distrito" : "DIRIA",
-      "Provincia" : "GUANACASTE"
-   }
+   "type" : "Feature"
 }

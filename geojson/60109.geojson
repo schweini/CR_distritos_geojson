@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "MONTE VERDE",
+      "Codigo" : "60109",
+      "Canton" : "PUNTARENAS"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -2063,12 +2070,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "MONTE VERDE",
-      "Codigo" : "60109",
-      "Canton" : "PUNTARENAS"
    }
 }

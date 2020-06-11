@@ -1,11 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "SANTA MARIA",
       "Provincia" : "SAN JOSE",
+      "Distrito" : "SANTA MARIA",
       "Codigo" : "11701",
       "Canton" : "DOTA"
    },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -559,8 +561,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature"
+      ]
+   }
 }

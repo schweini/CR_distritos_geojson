@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN JERONIMO",
-      "Canton" : "MORAVIA",
-      "Codigo" : "11402"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2245,6 +2237,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "SAN JERONIMO",
+      "Canton" : "MORAVIA",
+      "Codigo" : "11402"
+   },
+   "type" : "Feature"
 }

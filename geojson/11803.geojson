@@ -708,11 +708,11 @@
       ],
       "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
       "Provincia" : "SAN JOSE",
       "Distrito" : "SANCHEZ",
-      "Codigo" : "11803",
-      "Canton" : "CURRIDABAT"
-   }
+      "Canton" : "CURRIDABAT",
+      "Codigo" : "11803"
+   },
+   "type" : "Feature"
 }

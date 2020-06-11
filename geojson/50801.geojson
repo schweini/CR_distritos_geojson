@@ -1,13 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "50801",
-      "Canton" : "TILARAN",
-      "Distrito" : "TILARAN",
-      "Provincia" : "GUANACASTE"
-   },
-   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -13737,6 +13729,14 @@
                ]
             ]
          ]
-      ]
-   }
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "TILARAN",
+      "Canton" : "TILARAN",
+      "Codigo" : "50801"
+   },
+   "type" : "Feature"
 }

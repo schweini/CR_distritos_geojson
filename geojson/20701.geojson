@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "PALMARES",
+      "Codigo" : "20701",
+      "Distrito" : "PALMARES"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -419,12 +423,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "PALMARES",
-      "Canton" : "PALMARES",
-      "Codigo" : "20701"
-   }
+   "type" : "Feature"
 }

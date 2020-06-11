@@ -1,11 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "MERCEDES",
-      "Provincia" : "SAN JOSE",
-      "Canton" : "MONTES DE OCA",
-      "Codigo" : "11503"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -847,8 +842,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "11503",
+      "Canton" : "MONTES DE OCA",
+      "Distrito" : "MERCEDES"
    },
    "type" : "Feature"
 }

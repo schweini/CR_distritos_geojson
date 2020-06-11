@@ -1,7 +1,12 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "40601",
+      "Canton" : "SAN ISIDRO",
+      "Distrito" : "SAN ISIDRO",
+      "Provincia" : "HEREDIA"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -907,12 +912,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "properties" : {
-      "Distrito" : "SAN ISIDRO",
-      "Provincia" : "HEREDIA",
-      "Canton" : "SAN ISIDRO",
-      "Codigo" : "40601"
+      ],
+      "type" : "MultiPolygon"
    }
 }

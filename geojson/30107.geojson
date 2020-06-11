@@ -1,11 +1,6 @@
 {
-   "properties" : {
-      "Distrito" : "CORRALILLO",
-      "Provincia" : "CARTAGO",
-      "Codigo" : "30107",
-      "Canton" : "CARTAGO"
-   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1551,8 +1546,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Provincia" : "CARTAGO",
+      "Distrito" : "CORRALILLO",
+      "Canton" : "CARTAGO",
+      "Codigo" : "30107"
    },
    "type" : "Feature"
 }

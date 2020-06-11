@@ -1,8 +1,8 @@
 {
    "properties" : {
+      "Distrito" : "VEINTISIETE DE ABRIL",
       "Canton" : "SANTA CRUZ",
       "Codigo" : "50303",
-      "Distrito" : "VEINTISIETE DE ABRIL",
       "Provincia" : "GUANACASTE"
    },
    "geometry" : {

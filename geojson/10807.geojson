@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "PURRAL",
-      "Codigo" : "10807",
-      "Canton" : "GOICOECHEA"
-   },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1766,5 +1759,12 @@
             ]
          ]
       ]
-   }
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "10807",
+      "Canton" : "GOICOECHEA",
+      "Distrito" : "PURRAL"
+   },
+   "type" : "Feature"
 }

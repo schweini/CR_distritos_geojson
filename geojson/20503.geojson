@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "MERCEDES",
+      "Codigo" : "20503",
+      "Canton" : "ATENAS"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1329,10 +1334,5 @@
          ]
       ]
    },
-   "properties" : {
-      "Canton" : "ATENAS",
-      "Codigo" : "20503",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "MERCEDES"
-   }
+   "type" : "Feature"
 }

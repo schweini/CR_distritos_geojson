@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "VOLIO",
+      "Canton" : "SAN RAMON",
+      "Codigo" : "20210"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3274,13 +3281,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Canton" : "SAN RAMON",
-      "Codigo" : "20210",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "VOLIO"
+      ]
    }
 }

@@ -1,0 +1,16 @@
+{
+   "type" : "Feature",
+   "geometry" : {
+      "type" : "MultiPolygon",
+      "coordinates" : [
+         [
+            []
+         ]
+      ]
+   },
+   "properties" : {
+      "Codigo" : "611",
+      "Provincia" : "PUNTARENAS",
+      "Canton" : "GARABITO"
+   }
+}

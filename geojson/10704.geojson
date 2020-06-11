@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "PIEDRAS NEGRAS",
-      "Canton" : "MORA",
-      "Codigo" : "10704"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1580,7 +1573,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Canton" : "MORA",
+      "Codigo" : "10704",
+      "Distrito" : "PIEDRAS NEGRAS"
    },
    "type" : "Feature"
 }

@@ -1,6 +1,11 @@
 {
+   "properties" : {
+      "Provincia" : "PUNTARENAS",
+      "Distrito" : "QUEPOS",
+      "Canton" : "AGUIRRE",
+      "Codigo" : "60601"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -11562,13 +11567,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "60601",
-      "Canton" : "AGUIRRE",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "QUEPOS"
-   }
+   "type" : "Feature"
 }

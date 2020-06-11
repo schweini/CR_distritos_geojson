@@ -1,12 +1,7 @@
 {
-   "properties" : {
-      "Canton" : "SANTO DOMINGO",
-      "Codigo" : "40304",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "PARACITO"
-   },
    "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -676,7 +671,12 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
+   },
+   "properties" : {
+      "Codigo" : "40304",
+      "Canton" : "SANTO DOMINGO",
+      "Distrito" : "PARACITO",
+      "Provincia" : "HEREDIA"
    }
 }

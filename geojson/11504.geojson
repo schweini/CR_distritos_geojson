@@ -1280,11 +1280,11 @@
          ]
       ]
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "SAN RAFAEL",
       "Provincia" : "SAN JOSE",
       "Canton" : "MONTES DE OCA",
-      "Codigo" : "11504"
-   }
+      "Codigo" : "11504",
+      "Distrito" : "SAN RAFAEL"
+   },
+   "type" : "Feature"
 }

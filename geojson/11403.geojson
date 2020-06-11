@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "LA TRINIDAD",
+      "Codigo" : "11403",
+      "Canton" : "MORAVIA",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1468,11 +1474,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Codigo" : "11403",
-      "Canton" : "MORAVIA",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "LA TRINIDAD"
    }
 }

@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "ESCAZU",
+      "Codigo" : "10201",
+      "Canton" : "ESCAZU"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -850,13 +857,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "ESCAZU",
-      "Canton" : "ESCAZU",
-      "Codigo" : "10201"
+      ]
    }
 }

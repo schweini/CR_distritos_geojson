@@ -1,6 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "DELICIAS",
+      "Canton" : "UPALA",
+      "Codigo" : "21305"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5674,13 +5680,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "DELICIAS",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "21305",
-      "Canton" : "UPALA"
+      ],
+      "type" : "MultiPolygon"
    }
 }

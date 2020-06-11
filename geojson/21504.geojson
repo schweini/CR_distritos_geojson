@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Canton" : "GUATUSO",
-      "Codigo" : "21504",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "KATIRA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3497,6 +3491,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "KATIRA",
+      "Canton" : "GUATUSO",
+      "Codigo" : "21504"
    },
    "type" : "Feature"
 }

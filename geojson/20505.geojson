@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "20505",
-      "Canton" : "ATENAS",
-      "Distrito" : "CONCEPCION",
-      "Provincia" : "ALAJUELA"
-   },
    "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
@@ -1450,5 +1444,11 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Distrito" : "CONCEPCION",
+      "Codigo" : "20505",
+      "Canton" : "ATENAS"
    }
 }

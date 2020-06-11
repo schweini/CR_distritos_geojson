@@ -1,13 +1,6 @@
 {
-   "properties" : {
-      "Canton" : "PURISCAL",
-      "Codigo" : "10409",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "CHIRES"
-   },
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -7373,6 +7366,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Codigo" : "10409",
+      "Canton" : "PURISCAL",
+      "Distrito" : "CHIRES"
    }
 }

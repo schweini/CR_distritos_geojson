@@ -1,5 +1,13 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "CERVANTES",
+      "Codigo" : "30602",
+      "Canton" : "ALVARADO",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1225,14 +1233,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "CERVANTES",
-      "Canton" : "ALVARADO",
-      "Codigo" : "30602"
+      ]
    }
 }

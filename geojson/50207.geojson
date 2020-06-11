@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "BELEN DE NOSARITA",
+      "Codigo" : "50207",
+      "Canton" : "NICOYA",
+      "Provincia" : "GUANACASTE"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -3635,12 +3642,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "BELEN DE NOSARITA",
-      "Codigo" : "50207",
-      "Canton" : "NICOYA"
    }
 }

@@ -1,7 +1,6 @@
 {
    "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4011,11 +4010,12 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
    "properties" : {
-      "Codigo" : "51002",
       "Canton" : "LA CRUZ",
+      "Codigo" : "51002",
       "Distrito" : "SANTA CECILIA",
       "Provincia" : "GUANACASTE"
    }

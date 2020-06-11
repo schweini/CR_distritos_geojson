@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Codigo" : "20801",
+      "Canton" : "POAS",
+      "Distrito" : "SAN PEDRO"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -2672,11 +2678,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Canton" : "POAS",
-      "Codigo" : "20801",
-      "Distrito" : "SAN PEDRO",
-      "Provincia" : "ALAJUELA"
    }
 }

@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "GUANACASTE",
+      "Distrito" : "CURUBANDE",
+      "Codigo" : "50105",
+      "Canton" : "LIBERIA"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5159,12 +5163,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Provincia" : "GUANACASTE",
-      "Distrito" : "CURUBANDE",
-      "Canton" : "LIBERIA",
-      "Codigo" : "50105"
-   }
+   "type" : "Feature"
 }

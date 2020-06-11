@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "30201",
-      "Canton" : "PARAISO",
-      "Distrito" : "PARAISO",
-      "Provincia" : "CARTAGO"
-   },
    "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
@@ -2130,5 +2124,11 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Distrito" : "PARAISO",
+      "Codigo" : "30201",
+      "Canton" : "PARAISO",
+      "Provincia" : "CARTAGO"
    }
 }

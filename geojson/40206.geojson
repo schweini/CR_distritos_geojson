@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Codigo" : "40206",
+      "Canton" : "BARVA",
+      "Distrito" : "SAN JOSE DE LA MONTAÑA"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -984,11 +990,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SAN JOSE DE LA MONTAÑA",
-      "Codigo" : "40206",
-      "Canton" : "BARVA"
    }
 }

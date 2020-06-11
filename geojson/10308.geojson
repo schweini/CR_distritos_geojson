@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Canton" : "DESAMPARADOS",
+      "Codigo" : "10308",
+      "Distrito" : "SAN CRISTOBAL",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -2031,12 +2038,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Canton" : "DESAMPARADOS",
-      "Codigo" : "10308",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN CRISTOBAL"
    }
 }

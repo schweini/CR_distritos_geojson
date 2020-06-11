@@ -1,12 +1,13 @@
 {
-   "properties" : {
-      "Distrito" : "MERCEDES SUR",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "10402",
-      "Canton" : "PURISCAL"
-   },
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "SAN JOSE",
+      "Distrito" : "MERCEDES SUR",
+      "Canton" : "PURISCAL",
+      "Codigo" : "10402"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -5040,7 +5041,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

@@ -1,6 +1,5 @@
 {
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2442,13 +2441,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
+      "Provincia" : "PUNTARENAS",
       "Canton" : "CORREDORES",
       "Codigo" : "61003",
-      "Provincia" : "PUNTARENAS",
       "Distrito" : "CANOAS"
-   }
+   },
+   "type" : "Feature"
 }

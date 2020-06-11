@@ -1,6 +1,6 @@
 {
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4180,13 +4180,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Distrito" : "SAMARA",
       "Provincia" : "GUANACASTE",
-      "Codigo" : "50205",
-      "Canton" : "NICOYA"
+      "Distrito" : "SAMARA",
+      "Canton" : "NICOYA",
+      "Codigo" : "50205"
    }
 }

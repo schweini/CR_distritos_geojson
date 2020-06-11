@@ -1,7 +1,11 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Provincia" : "ALAJUELA",
+      "Canton" : "VALVERDE VEGA",
+      "Codigo" : "21202",
+      "Distrito" : "SARCHI SUR"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2303,12 +2307,8 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Distrito" : "SARCHI SUR",
-      "Provincia" : "ALAJUELA",
-      "Codigo" : "21202",
-      "Canton" : "VALVERDE VEGA"
-   }
+   "type" : "Feature"
 }

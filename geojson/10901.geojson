@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Distrito" : "SANTA ANA",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "10901",
-      "Canton" : "SANTA ANA"
-   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -749,6 +743,12 @@
             ]
          ]
       ]
+   },
+   "properties" : {
+      "Distrito" : "SANTA ANA",
+      "Codigo" : "10901",
+      "Canton" : "SANTA ANA",
+      "Provincia" : "SAN JOSE"
    },
    "type" : "Feature"
 }

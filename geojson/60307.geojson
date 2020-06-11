@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Codigo" : "60307",
+      "Canton" : "BUENOS AIRES",
+      "Distrito" : "CHANGUENA",
+      "Provincia" : "PUNTARENAS"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -4650,13 +4657,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Codigo" : "60307",
-      "Canton" : "BUENOS AIRES",
-      "Provincia" : "PUNTARENAS",
-      "Distrito" : "CHANGUENA"
+      ]
    }
 }

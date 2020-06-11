@@ -1,12 +1,6 @@
 {
-   "properties" : {
-      "Provincia" : "CARTAGO",
-      "Distrito" : "GUADALUPE O ARENILLA",
-      "Canton" : "CARTAGO",
-      "Codigo" : "30106"
-   },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1204,7 +1198,13 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   }
+      ]
+   },
+   "properties" : {
+      "Canton" : "CARTAGO",
+      "Codigo" : "30106",
+      "Distrito" : "GUADALUPE O ARENILLA",
+      "Provincia" : "CARTAGO"
+   },
+   "type" : "Feature"
 }

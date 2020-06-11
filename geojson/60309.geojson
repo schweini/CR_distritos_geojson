@@ -1,5 +1,4 @@
 {
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -4918,9 +4917,10 @@
       ]
    },
    "properties" : {
-      "Canton" : "BUENOS AIRES",
-      "Codigo" : "60309",
+      "Provincia" : "PUNTARENAS",
       "Distrito" : "BRUNKA",
-      "Provincia" : "PUNTARENAS"
-   }
+      "Canton" : "BUENOS AIRES",
+      "Codigo" : "60309"
+   },
+   "type" : "Feature"
 }

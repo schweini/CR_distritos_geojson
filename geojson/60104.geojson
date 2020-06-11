@@ -1,12 +1,13 @@
 {
+   "type" : "Feature",
    "properties" : {
-      "Distrito" : "LEPANTO",
       "Provincia" : "PUNTARENAS",
+      "Distrito" : "LEPANTO",
       "Codigo" : "60104",
       "Canton" : "PUNTARENAS"
    },
-   "type" : "Feature",
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -15682,7 +15683,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
+      ]
    }
 }

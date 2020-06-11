@@ -1,12 +1,5 @@
 {
-   "properties" : {
-      "Codigo" : "40303",
-      "Canton" : "SANTO DOMINGO",
-      "Distrito" : "SAN MIGUEL",
-      "Provincia" : "HEREDIA"
-   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2344,7 +2337,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Distrito" : "SAN MIGUEL",
+      "Codigo" : "40303",
+      "Canton" : "SANTO DOMINGO"
    },
    "type" : "Feature"
 }

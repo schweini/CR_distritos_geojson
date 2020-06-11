@@ -1,5 +1,11 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Distrito" : "CASCAJAL",
+      "Canton" : "VAZQUEZ DE CORONADO",
+      "Codigo" : "11105",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -3272,11 +3278,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Codigo" : "11105",
-      "Canton" : "VAZQUEZ DE CORONADO",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "CASCAJAL"
    }
 }

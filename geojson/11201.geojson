@@ -1,11 +1,10 @@
 {
    "properties" : {
-      "Canton" : "ACOSTA",
+      "Distrito" : "SAN IGNACIO",
       "Codigo" : "11201",
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN IGNACIO"
+      "Canton" : "ACOSTA",
+      "Provincia" : "SAN JOSE"
    },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1550,5 +1549,6 @@
             ]
          ]
       ]
-   }
+   },
+   "type" : "Feature"
 }

@@ -1,6 +1,5 @@
 {
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -650,13 +649,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "PUNTARENAS",
+      "Provincia" : "PUNTARENAS",
       "Codigo" : "60112",
-      "Distrito" : "CHACARITA",
-      "Provincia" : "PUNTARENAS"
-   }
+      "Canton" : "PUNTARENAS",
+      "Distrito" : "CHACARITA"
+   },
+   "type" : "Feature"
 }

@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Distrito" : "SAN NICOLAS",
+      "Codigo" : "30104",
+      "Canton" : "CARTAGO",
+      "Provincia" : "CARTAGO"
+   },
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -1887,12 +1894,5 @@
             ]
          ]
       ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Codigo" : "30104",
-      "Canton" : "CARTAGO",
-      "Distrito" : "SAN NICOLAS",
-      "Provincia" : "CARTAGO"
    }
 }

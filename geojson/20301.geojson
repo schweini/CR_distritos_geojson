@@ -1,6 +1,5 @@
 {
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -1930,13 +1929,14 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
+      "Provincia" : "ALAJUELA",
       "Codigo" : "20301",
       "Canton" : "GRECIA",
-      "Distrito" : "GRECIA",
-      "Provincia" : "ALAJUELA"
-   }
+      "Distrito" : "GRECIA"
+   },
+   "type" : "Feature"
 }

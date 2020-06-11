@@ -1,6 +1,12 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Canton" : "PEREZ ZELEDON",
+      "Codigo" : "11908",
+      "Distrito" : "CAJON",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -3098,13 +3104,7 @@
                ]
             ]
          ]
-      ]
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Distrito" : "CAJON",
-      "Provincia" : "SAN JOSE",
-      "Codigo" : "11908",
-      "Canton" : "PEREZ ZELEDON"
+      ],
+      "type" : "MultiPolygon"
    }
 }

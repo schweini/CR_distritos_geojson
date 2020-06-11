@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SABANILLA",
-      "Codigo" : "11502",
-      "Canton" : "MONTES DE OCA"
-   },
-   "type" : "Feature",
    "geometry" : {
       "type" : "MultiPolygon",
       "coordinates" : [
@@ -910,5 +903,12 @@
             ]
          ]
       ]
-   }
+   },
+   "properties" : {
+      "Distrito" : "SABANILLA",
+      "Codigo" : "11502",
+      "Canton" : "MONTES DE OCA",
+      "Provincia" : "SAN JOSE"
+   },
+   "type" : "Feature"
 }

@@ -1,6 +1,13 @@
 {
    "type" : "Feature",
+   "properties" : {
+      "Provincia" : "HEREDIA",
+      "Distrito" : "SAN FRANCISCO",
+      "Canton" : "SAN ISIDRO",
+      "Codigo" : "40604"
+   },
    "geometry" : {
+      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -706,13 +713,6 @@
                ]
             ]
          ]
-      ],
-      "type" : "MultiPolygon"
-   },
-   "properties" : {
-      "Canton" : "SAN ISIDRO",
-      "Codigo" : "40604",
-      "Provincia" : "HEREDIA",
-      "Distrito" : "SAN FRANCISCO"
+      ]
    }
 }

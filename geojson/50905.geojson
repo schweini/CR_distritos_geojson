@@ -1,6 +1,6 @@
 {
+   "type" : "Feature",
    "geometry" : {
-      "type" : "MultiPolygon",
       "coordinates" : [
          [
             [
@@ -2222,13 +2222,13 @@
                ]
             ]
          ]
-      ]
+      ],
+      "type" : "MultiPolygon"
    },
-   "type" : "Feature",
    "properties" : {
-      "Canton" : "NANDAYURE",
+      "Provincia" : "GUANACASTE",
       "Codigo" : "50905",
-      "Distrito" : "PORVENIR",
-      "Provincia" : "GUANACASTE"
+      "Canton" : "NANDAYURE",
+      "Distrito" : "PORVENIR"
    }
 }

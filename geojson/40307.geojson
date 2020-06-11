@@ -1,11 +1,4 @@
 {
-   "properties" : {
-      "Codigo" : "40307",
-      "Canton" : "SANTO DOMINGO",
-      "Distrito" : "TURES",
-      "Provincia" : "HEREDIA"
-   },
-   "type" : "Feature",
    "geometry" : {
       "coordinates" : [
          [
@@ -986,5 +979,12 @@
          ]
       ],
       "type" : "MultiPolygon"
-   }
+   },
+   "properties" : {
+      "Canton" : "SANTO DOMINGO",
+      "Codigo" : "40307",
+      "Distrito" : "TURES",
+      "Provincia" : "HEREDIA"
+   },
+   "type" : "Feature"
 }

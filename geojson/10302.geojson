@@ -1,4 +1,11 @@
 {
+   "type" : "Feature",
+   "properties" : {
+      "Canton" : "DESAMPARADOS",
+      "Codigo" : "10302",
+      "Distrito" : "SAN MIGUEL",
+      "Provincia" : "SAN JOSE"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1851,12 +1858,5 @@
          ]
       ],
       "type" : "MultiPolygon"
-   },
-   "type" : "Feature",
-   "properties" : {
-      "Provincia" : "SAN JOSE",
-      "Distrito" : "SAN MIGUEL",
-      "Codigo" : "10302",
-      "Canton" : "DESAMPARADOS"
    }
 }

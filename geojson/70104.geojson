@@ -1,10 +1,4 @@
 {
-   "properties" : {
-      "Provincia" : "LIMON",
-      "Distrito" : "MATAMA",
-      "Canton" : "LIMON",
-      "Codigo" : "70104"
-   },
    "geometry" : {
       "coordinates" : [
          [
@@ -5981,6 +5975,12 @@
          ]
       ],
       "type" : "MultiPolygon"
+   },
+   "properties" : {
+      "Canton" : "LIMON",
+      "Codigo" : "70104",
+      "Distrito" : "MATAMA",
+      "Provincia" : "LIMON"
    },
    "type" : "Feature"
 }

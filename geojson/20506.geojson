@@ -1,5 +1,10 @@
 {
-   "type" : "Feature",
+   "properties" : {
+      "Canton" : "ATENAS",
+      "Codigo" : "20506",
+      "Distrito" : "SAN JOSE",
+      "Provincia" : "ALAJUELA"
+   },
    "geometry" : {
       "coordinates" : [
          [
@@ -1777,10 +1782,5 @@
       ],
       "type" : "MultiPolygon"
    },
-   "properties" : {
-      "Canton" : "ATENAS",
-      "Codigo" : "20506",
-      "Provincia" : "ALAJUELA",
-      "Distrito" : "SAN JOSE"
-   }
+   "type" : "Feature"
 }
